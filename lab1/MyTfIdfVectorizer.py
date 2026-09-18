@@ -3,7 +3,7 @@ import numpy as np
 import re
 from collections import Counter
 
-class TfIdfVectorizer():
+class MyTfIdfVectorizer():
   def __init__(self, data:pd.DataFrame):
     self.data = data
 
@@ -15,6 +15,7 @@ class TfIdfVectorizer():
     self.df = None
     self.idf = None
     self.tfidf = None
+    self.cosine_similarity = None
 
   def buildVocabulary(self, col_name:str):
     vocabulary = set()
@@ -59,7 +60,7 @@ class TfIdfVectorizer():
     )
 
   def compute_df(self):
-    binary_matrix = self.count_matrix > 1
+    binary_matrix = self.count_matrix > 0
     self.df = np.sum(binary_matrix, axis=0)
 
   def compute_idf(self):
@@ -69,4 +70,16 @@ class TfIdfVectorizer():
   def compute_tfidf(self):
     self.tfidf = self.tf * self.idf
 
+  def compute_cosine_similarity(self):
+    dot_product = self.tfidf @ self.tfidf.T
+    norms = np.linalg.norm(self.tfidf, axis=1, keepdims=True)
+
+    self.cosine_similarity = np.divide(
+      dot_product,
+      norms @ norms.T,
+      out=np.zeros_like(dot_product),
+      where=norms @ norms.T != 0
+    )
+
+    return self.cosine_similarity
 
