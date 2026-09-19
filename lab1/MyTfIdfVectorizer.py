@@ -51,13 +51,7 @@ class MyTfIdfVectorizer():
     self.count_matrix = np.array(vectors)
 
   def compute_tf(self):
-    total_tokens = np.sum(self.count_matrix, axis=1, keepdims=True)
-    self.tf = np.divide(
-      self.count_matrix,
-      total_tokens,
-      out=np.zeros_like(self.count_matrix),
-      where=total_tokens != 0
-    )
+    self.tf = self.count_matrix.astype(np.float64)
 
   def compute_df(self):
     binary_matrix = self.count_matrix > 0
@@ -68,7 +62,20 @@ class MyTfIdfVectorizer():
     self.idf = np.log((1 + num_doc) / (1 + self.df)) + 1
 
   def compute_tfidf(self):
-    self.tfidf = self.tf * self.idf
+    weighted_tfidf = self.tf * self.idf
+
+    norms = np.linalg.norm(
+        weighted_tfidf,
+        axis=1,
+        keepdims=True
+    )
+
+    self.tfidf = np.divide(
+        weighted_tfidf,
+        norms,
+        out=np.zeros_like(weighted_tfidf),
+        where=norms != 0
+    )
 
   def compute_cosine_similarity(self):
     dot_product = self.tfidf @ self.tfidf.T
