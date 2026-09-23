@@ -1,0 +1,11 @@
+query_id,query,doc_ids
+1,education university college students academic school,"[2978, 26379, 25692, 5094, 24368]"
+2,car vehicle driving automotive auto insurance,"[2640, 3358, 2208, 26928, 13861]"
+3,real estate property housing apartment bedroom landlord,"[5366, 6300, 28194, 8703, 22349]"
+4,health medical doctor patient disease hospital,"[28824, 15913, 13861, 16199, 14038]"
+5,software computer programming developer algorithm digital,"[20599, 15236, 13825, 11641, 18521]"
+6,recipe cooking delicious ingredient restaurant chef,"[24923, 21688, 2377, 11005, 15225]"
+7,travel flight hotel tourist destination vacation,"[9722, 2321, 4286, 4835, 18448]"
+8,sports fitness workout football basketball athlete,"[19879, 22803, 8690, 29529, 20390]"
+9,fashion clothing wardrobe outfit boutique apparel,"[28168, 6940, 18978, 24634, 10311]"
+10,investment finance stock market portfolio banking,"[23661, 16358, 2279, 19024, 6300]"
