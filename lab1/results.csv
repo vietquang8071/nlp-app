@@ -1,3 +1,23 @@
-,Mean P@5,Mean R@5,MRR
-Default Tokenizer,0.06000000000000001,0.06000000000000001,0.07833333333333334
-BERT Subword Tokenizer,0.06000000000000001,0.06000000000000001,0.065
+query_id,query,retrieved_ids,relevant_ids,P@5,R@5,RR,engine
+1,education university college students academic school,"[1362, 13076, 8515, 26340, 24088]","[2978, 26379, 25692, 5094, 24368]",0.0,0.0,0.0,Default Tokenizer
+2,car vehicle driving automotive auto insurance,"[1342, 16788, 2640, 18966, 25388]","[2640, 3358, 2208, 26928, 13861]",0.2,0.2,0.3333333333333333,Default Tokenizer
+3,real estate property housing apartment bedroom landlord,"[15502, 23161, 18502, 19519, 4173]","[5366, 6300, 28194, 8703, 22349]",0.0,0.0,0.0,Default Tokenizer
+4,health medical doctor patient disease hospital,"[7478, 9660, 17065, 4135, 28824]","[28824, 15913, 13861, 16199, 14038]",0.2,0.2,0.2,Default Tokenizer
+5,software computer programming developer algorithm digital,"[22391, 3820, 2856, 15266, 10856]","[20599, 15236, 13825, 11641, 18521]",0.0,0.0,0.0,Default Tokenizer
+6,recipe cooking delicious ingredient restaurant chef,"[29521, 26991, 26462, 24923, 28106]","[24923, 21688, 2377, 11005, 15225]",0.2,0.2,0.25,Default Tokenizer
+7,travel flight hotel tourist destination vacation,"[8336, 6985, 25522, 26370, 19439]","[9722, 2321, 4286, 4835, 18448]",0.0,0.0,0.0,Default Tokenizer
+8,sports fitness workout football basketball athlete,"[14988, 26270, 6082, 15344, 8789]","[19879, 22803, 8690, 29529, 20390]",0.0,0.0,0.0,Default Tokenizer
+9,fashion clothing wardrobe outfit boutique apparel,"[17438, 3142, 12879, 21809, 25093]","[28168, 6940, 18978, 24634, 10311]",0.0,0.0,0.0,Default Tokenizer
+10,investment finance stock market portfolio banking,"[10601, 19701, 18668, 8284, 14408]","[23661, 16358, 2279, 19024, 6300]",0.0,0.0,0.0,Default Tokenizer
+1,education university college students academic school,"[1362, 24088, 26340, 2729, 8515]","[2978, 26379, 25692, 5094, 24368]",0.0,0.0,0.0,BERT Subword Tokenizer
+2,car vehicle driving automotive auto insurance,"[1342, 16788, 18966, 2640, 25388]","[2640, 3358, 2208, 26928, 13861]",0.2,0.2,0.25,BERT Subword Tokenizer
+3,real estate property housing apartment bedroom landlord,"[14847, 15502, 17221, 23161, 18502]","[5366, 6300, 28194, 8703, 22349]",0.0,0.0,0.0,BERT Subword Tokenizer
+4,health medical doctor patient disease hospital,"[7478, 9660, 17065, 4135, 28824]","[28824, 15913, 13861, 16199, 14038]",0.2,0.2,0.2,BERT Subword Tokenizer
+5,software computer programming developer algorithm digital,"[22391, 3820, 10856, 15266, 2856]","[20599, 15236, 13825, 11641, 18521]",0.0,0.0,0.0,BERT Subword Tokenizer
+6,recipe cooking delicious ingredient restaurant chef,"[26462, 28106, 26991, 29521, 24923]","[24923, 21688, 2377, 11005, 15225]",0.2,0.2,0.2,BERT Subword Tokenizer
+7,travel flight hotel tourist destination vacation,"[8336, 6985, 27979, 25522, 26370]","[9722, 2321, 4286, 4835, 18448]",0.0,0.0,0.0,BERT Subword Tokenizer
+8,sports fitness workout football basketball athlete,"[26270, 6082, 14988, 15927, 15344]","[19879, 22803, 8690, 29529, 20390]",0.0,0.0,0.0,BERT Subword Tokenizer
+9,fashion clothing wardrobe outfit boutique apparel,"[17438, 12879, 3142, 24968, 25093]","[28168, 6940, 18978, 24634, 10311]",0.0,0.0,0.0,BERT Subword Tokenizer
+10,investment finance stock market portfolio banking,"[10601, 19701, 18668, 8284, 9646]","[23661, 16358, 2279, 19024, 6300]",0.0,0.0,0.0,BERT Subword Tokenizer
+,--- SUMMARY ---,,,0.06000000000000001,0.06000000000000001,0.07833333333333334,Default Tokenizer (Mean)
+,--- SUMMARY ---,,,0.06000000000000001,0.06000000000000001,0.065,BERT Subword Tokenizer (Mean)
