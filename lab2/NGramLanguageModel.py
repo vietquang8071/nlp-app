@@ -149,3 +149,20 @@ class NGramLanguageModel:
 
         top_k = heapq.nlargest(k, word_probs, key=lambda x: x[0])
         return [(word, prob) for prob, word in top_k]
+
+    def score_continuation(self, context, continuation):
+        """
+        Tính log P(continuation | context).
+        context: list[str] — các token context
+        continuation: list[str] — các token continuation
+        """
+        tokens = ["BOS"] * (self.n - 1) + context + continuation + ["EOS"]
+        start = len(["BOS"] * (self.n - 1)) + len(context)
+        log_prob = 0.0
+        for i in range(start, len(tokens)):
+            ctx = tokens[i - self.n + 1:i]
+            p = self.probability(tokens[i], ctx)
+            if p == 0:
+                return -np.inf
+            log_prob += np.log(p)
+        return log_prob
