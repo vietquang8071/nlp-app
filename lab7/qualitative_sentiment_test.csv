@@ -1,0 +1,16 @@
+Category,Text,Tokens,Expected,Predicted,P(Positive),Correct
+short,this movie is amazing,4,1.0,1,1.0,True
+short,i hate this movie,4,0.0,0,0.3322,True
+short,the acting was terrible,4,0.0,0,0.0,True
+long,i watched this movie last night and i was surprised by how much i enjoyed it the story begins slowly but gradually becomes more interesting as the characters develop the actors deliver convincing performances and the dialogue feels natural and believable the cinematography is beautiful and the music fits perfectly with the atmosphere of the film there are some scenes that could have been shorter but they do not seriously affect the overall experience by the time the movie reaches its final act the emotional impact becomes much stronger and the ending feels satisfying and meaningful i would definitely recommend this film to anyone who enjoys thoughtful stories with memorable characters and excellent acting,114,1.0,1,1.0,True
+long,i had high expectations for this movie because the trailer looked very promising and the cast included several talented actors unfortunately the final result was disappointing the story is confusing and many important events are never properly explained the characters make strange decisions that do not fit their personalities the dialogue often sounds unnatural and several scenes feel completely unnecessary even though the visual effects are impressive they cannot compensate for the weak screenplay the pacing becomes worse in the second half and the ending leaves many questions unanswered after spending so much time watching this film i felt that the experience was a waste of time and i would not recommend it to my friends,116,0.0,0,0.0,True
+long,the movie starts with an interesting idea and introduces several characters who seem ordinary at first but gradually become more complex as the story progresses at the beginning i was not particularly impressed by the slow pacing and simple dialogue however the film slowly reveals important details about the characters and their relationships the director uses small emotional moments to build tension and develop the central conflict some scenes are predictable and a few supporting characters do not receive enough attention but the main performances are strong and the story remains engaging throughout the second half of the movie contains several memorable scenes that successfully connect earlier events with the final resolution although the film has noticeable weaknesses its emotional depth and satisfying conclusion make it a rewarding experience overall,130,1.0,0,0.296,False
+negation,this movie is not good,5,0.0,1,0.9982,False
+negation,this movie is not bad at all,7,1.0,0,0.0,False
+negation,i cannot say that i enjoyed this movie,8,0.0,1,0.9976,False
+contrast,the beginning was boring but the ending was absolutely wonderful,10,1.0,0,0.0001,False
+contrast,the actors were excellent but the story was terrible and disappointing,11,0.0,0,0.0,True
+contrast,although the movie was very long i enjoyed every minute of it,12,1.0,1,1.0,True
+ambiguous,the movie was interesting in some ways but i am not sure whether i liked it,16,,1,1.0,
+ambiguous,some scenes were enjoyable while others were disappointing,8,,0,0.0001,
+ambiguous,i expected something different but i cannot decide if that is good or bad,14,,1,0.9863,
