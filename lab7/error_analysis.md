@@ -1,7 +1,4 @@
 # 26. Error analysis
-
-Các xác suất dưới đây được làm tròn đến bốn chữ số thập phân.
-
 ## Ba dự đoán đúng
 
 ### 1. Cảm xúc tiêu cực rõ ràng
