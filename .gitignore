@@ -8,3 +8,4 @@ scratch/
 imdb/
 *.zip
 *.pth
+*.pt
