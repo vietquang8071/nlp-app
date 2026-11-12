@@ -1,0 +1,4 @@
+Max Length,Training Time (s),Validation Time (s),Peak GPU Memory (GB),Best Epoch,Best Validation F1,Parameters,Checkpoint
+64,528.1100071799992,34.684253383000396,1.806640625,2,0.701998807995232,66955010,results/experiment4/pretrained_len_64_best.pt
+128,993.5407786929991,63.939247703001456,1.8125,1,0.3351063829787234,66955010,results/experiment4/pretrained_len_128_best.pt
+256,1876.3566779410012,119.60406117000093,1.818359375,1,0.3351063829787234,66955010,results/experiment4/pretrained_len_256_best.pt
