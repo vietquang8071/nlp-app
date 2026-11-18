@@ -1,0 +1,715 @@
+sentence_id,group,word,label,entity_type,num_subwords,is_split,subwords
+709,Short,Women,O,Non-Entity,1,False,Women
+709,Short,'s,O,Non-Entity,2,True,' | s
+709,Short,"5,000",O,Non-Entity,3,True,"5 | , | 000"
+709,Short,metres,O,Non-Entity,1,False,metres
+687,Short,Chinese,B-MISC,Entity,1,False,Chinese
+687,Short,police,O,Non-Entity,1,False,police
+687,Short,hold,O,Non-Entity,1,False,hold
+687,Short,veteran,O,Non-Entity,1,False,veteran
+687,Short,dissident,O,Non-Entity,3,True,di | ##ssi | ##dent
+687,Short,.,O,Non-Entity,1,False,.
+208,Short,M1,O,Non-Entity,1,False,M1
+208,Short,63.02,O,Non-Entity,3,True,63 | . | 02
+208,Short,62.83,O,Non-Entity,3,True,62 | . | 83
+208,Short,57.50,O,Non-Entity,3,True,57 | . | 50
+946,Short,COLORADO,B-ORG,Entity,5,True,CO | ##L | ##OR | ##AD | ##O
+946,Short,70,O,Non-Entity,1,False,70
+946,Short,65,O,Non-Entity,1,False,65
+946,Short,.519,O,Non-Entity,3,True,. | 51 | ##9
+946,Short,5,O,Non-Entity,1,False,5
+828,Short,Escaped,O,Non-Entity,2,True,Escape | ##d
+828,Short,British,B-MISC,Entity,1,False,British
+828,Short,paedophile,O,Non-Entity,5,True,p | ##ae | ##do | ##phi | ##le
+828,Short,recaptured,O,Non-Entity,1,False,recaptured
+828,Short,.,O,Non-Entity,1,False,.
+733,Short,2007,O,Non-Entity,1,False,2007
+733,Short,"90,000",O,Non-Entity,3,True,"90 | , | 000"
+123,Short,Attendance,O,Non-Entity,1,False,Attendance
+123,Short,:,O,Non-Entity,1,False,:
+123,Short,200,O,Non-Entity,1,False,200
+69,Short,Notts,B-ORG,Entity,2,True,Not | ##ts
+69,Short,County,I-ORG,Entity,1,False,County
+69,Short,0,O,Non-Entity,1,False,0
+69,Short,York,B-ORG,Entity,1,False,York
+69,Short,1,O,Non-Entity,1,False,1
+589,Short,AMSTERDAM,B-LOC,Entity,5,True,AM | ##ST | ##ER | ##DA | ##M
+589,Short,1996-08-31,O,Non-Entity,5,True,1996 | - | 08 | - | 31
+990,Short,Haitai,B-ORG,Entity,2,True,Hai | ##tai
+990,Short,64,O,Non-Entity,1,False,64
+990,Short,2,O,Non-Entity,1,False,2
+990,Short,43,O,Non-Entity,1,False,43
+990,Short,.596,O,Non-Entity,3,True,. | 59 | ##6
+990,Short,-,O,Non-Entity,1,False,-
+398,Short,EASTERN,B-MISC,Entity,4,True,EA | ##ST | ##ER | ##N
+398,Short,DIVISION,I-MISC,Entity,5,True,D | ##I | ##VI | ##SI | ##ON
+948,Short,Andy,B-PER,Entity,1,False,Andy
+948,Short,Colquhoun,I-PER,Entity,5,True,Col | ##q | ##uh | ##ou | ##n
+442,Short,LONDON,B-LOC,Entity,4,True,L | ##ON | ##D | ##ON
+442,Short,1996-08-30,O,Non-Entity,5,True,1996 | - | 08 | - | 30
+807,Short,1996,O,Non-Entity,1,False,1996
+807,Short,1995,O,Non-Entity,1,False,1995
+74,Short,CHICAGO,B-LOC,Entity,4,True,CH | ##IC | ##AG | ##O
+74,Short,1996-08-30,O,Non-Entity,5,True,1996 | - | 08 | - | 30
+700,Short,May,O,Non-Entity,1,False,May
+700,Short,20,O,Non-Entity,1,False,20
+700,Short,v,O,Non-Entity,1,False,v
+700,Short,Durham,B-ORG,Entity,1,False,Durham
+765,Short,Men,O,Non-Entity,1,False,Men
+765,Short,'s,O,Non-Entity,2,True,' | s
+765,Short,110,O,Non-Entity,1,False,110
+765,Short,metres,O,Non-Entity,1,False,metres
+765,Short,hurdles,O,Non-Entity,1,False,hurdles
+404,Short,Glenn,B-PER,Entity,1,False,Glenn
+404,Short,Somerville,I-PER,Entity,2,True,Some | ##rville
+635,Short,SAN,B-ORG,Entity,2,True,SA | ##N
+635,Short,DIEGO,I-ORG,Entity,4,True,D | ##IE | ##G | ##O
+635,Short,AT,O,Non-Entity,1,False,AT
+635,Short,MONTREAL,B-LOC,Entity,5,True,M | ##ON | ##TR | ##EA | ##L
+493,Short,Scoreboard,O,Non-Entity,2,True,Score | ##board
+493,Short,of,O,Non-Entity,1,False,of
+493,Short,the,O,Non-Entity,1,False,the
+493,Short,third,O,Non-Entity,1,False,third
+493,Short,Singer,B-MISC,Entity,1,False,Singer
+664,Long,The,O,Non-Entity,1,False,The
+664,Long,20-year-old,O,Non-Entity,5,True,20 | - | year | - | old
+664,Long,Woods,B-PER,Entity,1,False,Woods
+664,Long,",",O,Non-Entity,1,False,","
+664,Long,who,O,Non-Entity,1,False,who
+664,Long,turned,O,Non-Entity,1,False,turned
+664,Long,professional,O,Non-Entity,1,False,professional
+664,Long,Tuesday,O,Non-Entity,1,False,Tuesday
+664,Long,after,O,Non-Entity,1,False,after
+664,Long,winning,O,Non-Entity,1,False,winning
+664,Long,an,O,Non-Entity,1,False,an
+664,Long,unprecedented,O,Non-Entity,1,False,unprecedented
+664,Long,third,O,Non-Entity,1,False,third
+664,Long,successive,O,Non-Entity,1,False,successive
+664,Long,U.S.,B-MISC,Entity,4,True,U | . | S | .
+664,Long,Amateur,I-MISC,Entity,1,False,Amateur
+664,Long,Championship,I-MISC,Entity,1,False,Championship
+664,Long,",",O,Non-Entity,1,False,","
+664,Long,struggled,O,Non-Entity,1,False,struggled
+664,Long,on,O,Non-Entity,1,False,on
+664,Long,the,O,Non-Entity,1,False,the
+664,Long,front,O,Non-Entity,1,False,front
+664,Long,nine,O,Non-Entity,1,False,nine
+664,Long,",",O,Non-Entity,1,False,","
+664,Long,bogeying,O,Non-Entity,4,True,b | ##og | ##ey | ##ing
+664,Long,the,O,Non-Entity,1,False,the
+664,Long,first,O,Non-Entity,1,False,first
+664,Long,and,O,Non-Entity,1,False,and
+664,Long,seventh,O,Non-Entity,1,False,seventh
+664,Long,holes,O,Non-Entity,1,False,holes
+664,Long,and,O,Non-Entity,1,False,and
+664,Long,double-bogeying,O,Non-Entity,6,True,double | - | b | ##og | ##ey | ##ing
+664,Long,the,O,Non-Entity,1,False,the
+664,Long,par-four,O,Non-Entity,3,True,par | - | four
+664,Long,",",O,Non-Entity,1,False,","
+664,Long,359-yard,O,Non-Entity,4,True,35 | ##9 | - | yard
+664,Long,ninth,O,Non-Entity,1,False,ninth
+664,Long,hole,O,Non-Entity,1,False,hole
+664,Long,.,O,Non-Entity,1,False,.
+705,Long,Marriner,B-PER,Entity,3,True,Mar | ##rine | ##r
+705,Long,said,O,Non-Entity,1,False,said
+705,Long,that,O,Non-Entity,1,False,that
+705,Long,NATO,B-ORG,Entity,1,False,NATO
+705,Long,troops,O,Non-Entity,1,False,troops
+705,Long,had,O,Non-Entity,1,False,had
+705,Long,set,O,Non-Entity,1,False,set
+705,Long,up,O,Non-Entity,1,False,up
+705,Long,a,O,Non-Entity,1,False,a
+705,Long,checkpoint,O,Non-Entity,2,True,check | ##point
+705,Long,on,O,Non-Entity,1,False,on
+705,Long,the,O,Non-Entity,1,False,the
+705,Long,road,O,Non-Entity,1,False,road
+705,Long,between,O,Non-Entity,1,False,between
+705,Long,Tuzla,B-LOC,Entity,3,True,Tu | ##z | ##la
+705,Long,and,O,Non-Entity,1,False,and
+705,Long,Mahala,B-LOC,Entity,2,True,Ma | ##hala
+705,Long,to,O,Non-Entity,1,False,to
+705,Long,establish,O,Non-Entity,1,False,establish
+705,Long,the,O,Non-Entity,1,False,the
+705,Long,identities,O,Non-Entity,1,False,identities
+705,Long,and,O,Non-Entity,1,False,and
+705,Long,intentions,O,Non-Entity,1,False,intentions
+705,Long,of,O,Non-Entity,1,False,of
+705,Long,the,O,Non-Entity,1,False,the
+705,Long,men,O,Non-Entity,1,False,men
+705,Long,headed,O,Non-Entity,1,False,headed
+705,Long,towards,O,Non-Entity,1,False,towards
+705,Long,the,O,Non-Entity,1,False,the
+705,Long,village,O,Non-Entity,1,False,village
+705,Long,.,O,Non-Entity,1,False,.
+78,Long,Kent,B-ORG,Entity,1,False,Kent
+78,Long,will,O,Non-Entity,1,False,will
+78,Long,also,O,Non-Entity,1,False,also
+78,Long,need,O,Non-Entity,1,False,need
+78,Long,to,O,Non-Entity,1,False,to
+78,Long,keep,O,Non-Entity,1,False,keep
+78,Long,their,O,Non-Entity,1,False,their
+78,Long,nerve,O,Non-Entity,1,False,nerve
+78,Long,against,O,Non-Entity,1,False,against
+78,Long,struggling,O,Non-Entity,1,False,struggling
+78,Long,Nottinghamshire,B-ORG,Entity,1,False,Nottinghamshire
+78,Long,who,O,Non-Entity,1,False,who
+78,Long,will,O,Non-Entity,1,False,will
+78,Long,enter,O,Non-Entity,1,False,enter
+78,Long,the,O,Non-Entity,1,False,the
+78,Long,final,O,Non-Entity,1,False,final
+78,Long,day,O,Non-Entity,1,False,day
+78,Long,137,O,Non-Entity,1,False,137
+78,Long,ahead,O,Non-Entity,1,False,ahead
+78,Long,with,O,Non-Entity,1,False,with
+78,Long,four,O,Non-Entity,1,False,four
+78,Long,wickets,O,Non-Entity,1,False,wickets
+78,Long,left,O,Non-Entity,1,False,left
+78,Long,in,O,Non-Entity,1,False,in
+78,Long,a,O,Non-Entity,1,False,a
+78,Long,relatively,O,Non-Entity,1,False,relatively
+78,Long,low-scoring,O,Non-Entity,3,True,low | - | scoring
+78,Long,match,O,Non-Entity,1,False,match
+78,Long,at,O,Non-Entity,1,False,at
+78,Long,Tunbridge,B-LOC,Entity,2,True,Tu | ##nbridge
+78,Long,Wells,I-LOC,Entity,1,False,Wells
+78,Long,.,O,Non-Entity,1,False,.
+853,Long,"""",O,Non-Entity,1,False,""""
+853,Long,This,O,Non-Entity,1,False,This
+853,Long,most,O,Non-Entity,1,False,most
+853,Long,recent,O,Non-Entity,1,False,recent
+853,Long,measure,O,Non-Entity,1,False,measure
+853,Long,represents,O,Non-Entity,1,False,represents
+853,Long,a,O,Non-Entity,1,False,a
+853,Long,revival,O,Non-Entity,1,False,revival
+853,Long,of,O,Non-Entity,1,False,of
+853,Long,old,O,Non-Entity,1,False,old
+853,Long,",",O,Non-Entity,1,False,","
+853,Long,malicious,O,Non-Entity,3,True,ma | ##lic | ##ious
+853,Long,plans,O,Non-Entity,1,False,plans
+853,Long,to,O,Non-Entity,1,False,to
+853,Long,confiscate,O,Non-Entity,4,True,con | ##fi | ##sca | ##te
+853,Long,the,O,Non-Entity,1,False,the
+853,Long,land,O,Non-Entity,1,False,land
+853,Long,and,O,Non-Entity,1,False,and
+853,Long,build,O,Non-Entity,1,False,build
+853,Long,units,O,Non-Entity,1,False,units
+853,Long,for,O,Non-Entity,1,False,for
+853,Long,Israeli,B-MISC,Entity,1,False,Israeli
+853,Long,settlers,O,Non-Entity,1,False,settlers
+853,Long,within,O,Non-Entity,1,False,within
+853,Long,the,O,Non-Entity,1,False,the
+853,Long,walls,O,Non-Entity,1,False,walls
+853,Long,of,O,Non-Entity,1,False,of
+853,Long,the,O,Non-Entity,1,False,the
+853,Long,Old,B-LOC,Entity,1,False,Old
+853,Long,City,I-LOC,Entity,1,False,City
+853,Long,.,O,Non-Entity,1,False,.
+853,Long,"""",O,Non-Entity,1,False,""""
+431,Long,The,O,Non-Entity,1,False,The
+431,Long,loss,O,Non-Entity,1,False,loss
+431,Long,was,O,Non-Entity,1,False,was
+431,Long,the,O,Non-Entity,1,False,the
+431,Long,Mets,B-ORG,Entity,1,False,Mets
+431,Long,',O,Non-Entity,1,False,'
+431,Long,eighth,O,Non-Entity,1,False,eighth
+431,Long,straight,O,Non-Entity,1,False,straight
+431,Long,",",O,Non-Entity,1,False,","
+431,Long,their,O,Non-Entity,1,False,their
+431,Long,longest,O,Non-Entity,1,False,longest
+431,Long,slide,O,Non-Entity,1,False,slide
+431,Long,since,O,Non-Entity,1,False,since
+431,Long,September,O,Non-Entity,1,False,September
+431,Long,1993,O,Non-Entity,1,False,1993
+431,Long,",",O,Non-Entity,1,False,","
+431,Long,and,O,Non-Entity,1,False,and
+431,Long,dropped,O,Non-Entity,1,False,dropped
+431,Long,them,O,Non-Entity,1,False,them
+431,Long,to,O,Non-Entity,1,False,to
+431,Long,0-4,O,Non-Entity,3,True,0 | - | 4
+431,Long,under,O,Non-Entity,1,False,under
+431,Long,new,O,Non-Entity,1,False,new
+431,Long,manager,O,Non-Entity,1,False,manager
+431,Long,Bobby,B-PER,Entity,1,False,Bobby
+431,Long,Valentine,I-PER,Entity,1,False,Valentine
+431,Long,.,O,Non-Entity,1,False,.
+760,Long,In,O,Non-Entity,1,False,In
+760,Long,the,O,Non-Entity,1,False,the
+760,Long,broader,O,Non-Entity,1,False,broader
+760,Long,market,O,Non-Entity,1,False,market
+760,Long,",",O,Non-Entity,1,False,","
+760,Long,declining,O,Non-Entity,1,False,declining
+760,Long,issues,O,Non-Entity,1,False,issues
+760,Long,beat,O,Non-Entity,1,False,beat
+760,Long,advances,O,Non-Entity,1,False,advances
+760,Long,"1,627",O,Non-Entity,4,True,"1 | , | 62 | ##7"
+760,Long,to,O,Non-Entity,1,False,to
+760,Long,743,O,Non-Entity,2,True,74 | ##3
+760,Long,on,O,Non-Entity,1,False,on
+760,Long,moderate,O,Non-Entity,1,False,moderate
+760,Long,volume,O,Non-Entity,1,False,volume
+760,Long,of,O,Non-Entity,1,False,of
+760,Long,321,O,Non-Entity,1,False,321
+760,Long,million,O,Non-Entity,1,False,million
+760,Long,shares,O,Non-Entity,1,False,shares
+760,Long,on,O,Non-Entity,1,False,on
+760,Long,the,O,Non-Entity,1,False,the
+760,Long,New,B-ORG,Entity,1,False,New
+760,Long,York,I-ORG,Entity,1,False,York
+760,Long,Stock,I-ORG,Entity,1,False,Stock
+760,Long,Exchange,I-ORG,Entity,1,False,Exchange
+760,Long,.,O,Non-Entity,1,False,.
+670,Long,A,O,Non-Entity,1,False,A
+670,Long,Reuters,B-ORG,Entity,2,True,Re | ##uters
+670,Long,reporter,O,Non-Entity,1,False,reporter
+670,Long,who,O,Non-Entity,1,False,who
+670,Long,entered,O,Non-Entity,1,False,entered
+670,Long,Mahala,B-LOC,Entity,2,True,Ma | ##hala
+670,Long,on,O,Non-Entity,1,False,on
+670,Long,Saturday,O,Non-Entity,1,False,Saturday
+670,Long,morning,O,Non-Entity,1,False,morning
+670,Long,found,O,Non-Entity,1,False,found
+670,Long,it,O,Non-Entity,1,False,it
+670,Long,tranquil,O,Non-Entity,4,True,t | ##ran | ##qui | ##l
+670,Long,but,O,Non-Entity,1,False,but
+670,Long,NATO,B-ORG,Entity,1,False,NATO
+670,Long,troops,O,Non-Entity,1,False,troops
+670,Long,and,O,Non-Entity,1,False,and
+670,Long,U.N.,B-ORG,Entity,4,True,U | . | N | .
+670,Long,police,O,Non-Entity,1,False,police
+670,Long,were,O,Non-Entity,1,False,were
+670,Long,seen,O,Non-Entity,1,False,seen
+670,Long,on,O,Non-Entity,1,False,on
+670,Long,the,O,Non-Entity,1,False,the
+670,Long,ground,O,Non-Entity,1,False,ground
+670,Long,and,O,Non-Entity,1,False,and
+670,Long,NATO,B-ORG,Entity,1,False,NATO
+670,Long,helicopters,O,Non-Entity,1,False,helicopters
+670,Long,flew,O,Non-Entity,1,False,flew
+670,Long,overhead,O,Non-Entity,1,False,overhead
+670,Long,.,O,Non-Entity,1,False,.
+159,Long,While,O,Non-Entity,1,False,While
+159,Long,production,O,Non-Entity,1,False,production
+159,Long,and,O,Non-Entity,1,False,and
+159,Long,orders,O,Non-Entity,1,False,orders
+159,Long,rose,O,Non-Entity,1,False,rose
+159,Long,at,O,Non-Entity,1,False,at
+159,Long,Midwest,B-LOC,Entity,1,False,Midwest
+159,Long,area,O,Non-Entity,1,False,area
+159,Long,businesses,O,Non-Entity,1,False,businesses
+159,Long,",",O,Non-Entity,1,False,","
+159,Long,the,O,Non-Entity,1,False,the
+159,Long,prices,O,Non-Entity,1,False,prices
+159,Long,they,O,Non-Entity,1,False,they
+159,Long,paid,O,Non-Entity,1,False,paid
+159,Long,for,O,Non-Entity,1,False,for
+159,Long,goods,O,Non-Entity,1,False,goods
+159,Long,used,O,Non-Entity,1,False,used
+159,Long,in,O,Non-Entity,1,False,in
+159,Long,manufacturing,O,Non-Entity,1,False,manufacturing
+159,Long,remained,O,Non-Entity,1,False,remained
+159,Long,well,O,Non-Entity,1,False,well
+159,Long,in,O,Non-Entity,1,False,in
+159,Long,check,O,Non-Entity,1,False,check
+159,Long,.,O,Non-Entity,1,False,.
+397,Long,The,O,Non-Entity,1,False,The
+397,Long,attack,O,Non-Entity,1,False,attack
+397,Long,comes,O,Non-Entity,1,False,comes
+397,Long,a,O,Non-Entity,1,False,a
+397,Long,day,O,Non-Entity,1,False,day
+397,Long,after,O,Non-Entity,1,False,after
+397,Long,rebels,O,Non-Entity,1,False,rebels
+397,Long,of,O,Non-Entity,1,False,of
+397,Long,the,O,Non-Entity,1,False,the
+397,Long,self-styled,O,Non-Entity,3,True,self | - | styled
+397,Long,Popular,B-ORG,Entity,1,False,Popular
+397,Long,Revolutionary,I-ORG,Entity,1,False,Revolutionary
+397,Long,Army,I-ORG,Entity,1,False,Army
+397,Long,(,O,Non-Entity,1,False,(
+397,Long,EPR,B-ORG,Entity,2,True,EP | ##R
+397,Long,),O,Non-Entity,1,False,)
+397,Long,launched,O,Non-Entity,1,False,launched
+397,Long,coordinated,O,Non-Entity,1,False,coordinated
+397,Long,attacks,O,Non-Entity,1,False,attacks
+397,Long,in,O,Non-Entity,1,False,in
+397,Long,at,O,Non-Entity,1,False,at
+397,Long,least,O,Non-Entity,1,False,least
+397,Long,three,O,Non-Entity,1,False,three
+397,Long,Mexican,B-MISC,Entity,1,False,Mexican
+397,Long,states,O,Non-Entity,1,False,states
+397,Long,",",O,Non-Entity,1,False,","
+397,Long,killing,O,Non-Entity,1,False,killing
+397,Long,up,O,Non-Entity,1,False,up
+397,Long,to,O,Non-Entity,1,False,to
+397,Long,14,O,Non-Entity,1,False,14
+397,Long,people,O,Non-Entity,1,False,people
+397,Long,and,O,Non-Entity,1,False,and
+397,Long,wounding,O,Non-Entity,2,True,wound | ##ing
+397,Long,about,O,Non-Entity,1,False,about
+397,Long,20,O,Non-Entity,1,False,20
+397,Long,.,O,Non-Entity,1,False,.
+192,Long,At,O,Non-Entity,1,False,At
+192,Long,Tunbridge,B-LOC,Entity,2,True,Tu | ##nbridge
+192,Long,Wells,I-LOC,Entity,1,False,Wells
+192,Long,:,O,Non-Entity,1,False,:
+192,Long,Nottinghamshire,B-ORG,Entity,1,False,Nottinghamshire
+192,Long,214,O,Non-Entity,1,False,214
+192,Long,and,O,Non-Entity,1,False,and
+192,Long,167-6,O,Non-Entity,3,True,167 | - | 6
+192,Long,(,O,Non-Entity,1,False,(
+192,Long,C.,B-PER,Entity,2,True,C | .
+192,Long,Tolley,I-PER,Entity,3,True,To | ##lle | ##y
+192,Long,64,O,Non-Entity,1,False,64
+192,Long,not,O,Non-Entity,1,False,not
+192,Long,out,O,Non-Entity,1,False,out
+192,Long,),O,Non-Entity,1,False,)
+192,Long,",",O,Non-Entity,1,False,","
+192,Long,Kent,B-ORG,Entity,1,False,Kent
+192,Long,244,O,Non-Entity,1,False,244
+192,Long,(,O,Non-Entity,1,False,(
+192,Long,C.,B-PER,Entity,2,True,C | .
+192,Long,Hooper,I-PER,Entity,1,False,Hooper
+192,Long,58,O,Non-Entity,1,False,58
+192,Long,;,O,Non-Entity,1,False,;
+192,Long,C.,B-PER,Entity,2,True,C | .
+192,Long,Tolley,I-PER,Entity,3,True,To | ##lle | ##y
+192,Long,4-68,O,Non-Entity,3,True,4 | - | 68
+192,Long,",",O,Non-Entity,1,False,","
+192,Long,K.,B-PER,Entity,2,True,K | .
+192,Long,Evans,I-PER,Entity,1,False,Evans
+192,Long,4-71,O,Non-Entity,3,True,4 | - | 71
+192,Long,),O,Non-Entity,1,False,)
+582,Long,"""",O,Non-Entity,1,False,""""
+582,Long,The,O,Non-Entity,1,False,The
+582,Long,RDR,B-ORG,Entity,2,True,R | ##DR
+582,Long,appeals,O,Non-Entity,1,False,appeals
+582,Long,to,O,Non-Entity,1,False,to
+582,Long,all,O,Non-Entity,1,False,all
+582,Long,refugees,O,Non-Entity,1,False,refugees
+582,Long,to,O,Non-Entity,1,False,to
+582,Long,prepare,O,Non-Entity,1,False,prepare
+582,Long,themselves,O,Non-Entity,1,False,themselves
+582,Long,calmly,O,Non-Entity,1,False,calmly
+582,Long,for,O,Non-Entity,1,False,for
+582,Long,the,O,Non-Entity,1,False,the
+582,Long,demands,O,Non-Entity,1,False,demands
+582,Long,of,O,Non-Entity,1,False,of
+582,Long,the,O,Non-Entity,1,False,the
+582,Long,census,O,Non-Entity,1,False,census
+582,Long,agents,O,Non-Entity,1,False,agents
+582,Long,because,O,Non-Entity,1,False,because
+582,Long,it,O,Non-Entity,1,False,it
+582,Long,will,O,Non-Entity,1,False,will
+582,Long,be,O,Non-Entity,1,False,be
+582,Long,in,O,Non-Entity,1,False,in
+582,Long,their,O,Non-Entity,1,False,their
+582,Long,ultimate,O,Non-Entity,1,False,ultimate
+582,Long,interest,O,Non-Entity,1,False,interest
+582,Long,",",O,Non-Entity,1,False,","
+582,Long,"""",O,Non-Entity,1,False,""""
+582,Long,the,O,Non-Entity,1,False,the
+582,Long,group,O,Non-Entity,1,False,group
+582,Long,said,O,Non-Entity,1,False,said
+582,Long,in,O,Non-Entity,1,False,in
+582,Long,a,O,Non-Entity,1,False,a
+582,Long,statement,O,Non-Entity,1,False,statement
+582,Long,.,O,Non-Entity,1,False,.
+993,Long,Organisers,O,Non-Entity,2,True,Organ | ##isers
+993,Long,tried,O,Non-Entity,1,False,tried
+993,Long,to,O,Non-Entity,1,False,to
+993,Long,block,O,Non-Entity,1,False,block
+993,Long,off,O,Non-Entity,1,False,off
+993,Long,traffic,O,Non-Entity,1,False,traffic
+993,Long,while,O,Non-Entity,1,False,while
+993,Long,preparing,O,Non-Entity,1,False,preparing
+993,Long,the,O,Non-Entity,1,False,the
+993,Long,drag,O,Non-Entity,1,False,drag
+993,Long,race,O,Non-Entity,1,False,race
+993,Long,late,O,Non-Entity,1,False,late
+993,Long,on,O,Non-Entity,1,False,on
+993,Long,Friday,O,Non-Entity,1,False,Friday
+993,Long,",",O,Non-Entity,1,False,","
+993,Long,but,O,Non-Entity,1,False,but
+993,Long,an,O,Non-Entity,1,False,an
+993,Long,allegedly,O,Non-Entity,1,False,allegedly
+993,Long,drunk,O,Non-Entity,1,False,drunk
+993,Long,driver,O,Non-Entity,1,False,driver
+993,Long,was,O,Non-Entity,1,False,was
+993,Long,unable,O,Non-Entity,1,False,unable
+993,Long,to,O,Non-Entity,1,False,to
+993,Long,slow,O,Non-Entity,1,False,slow
+993,Long,down,O,Non-Entity,1,False,down
+993,Long,in,O,Non-Entity,1,False,in
+993,Long,time,O,Non-Entity,1,False,time
+993,Long,and,O,Non-Entity,1,False,and
+993,Long,ran,O,Non-Entity,1,False,ran
+993,Long,into,O,Non-Entity,1,False,into
+993,Long,a,O,Non-Entity,1,False,a
+993,Long,group,O,Non-Entity,1,False,group
+993,Long,of,O,Non-Entity,1,False,of
+993,Long,spectators,O,Non-Entity,1,False,spectators
+993,Long,as,O,Non-Entity,1,False,as
+993,Long,he,O,Non-Entity,1,False,he
+993,Long,swerved,O,Non-Entity,3,True,s | ##wer | ##ved
+993,Long,to,O,Non-Entity,1,False,to
+993,Long,avoid,O,Non-Entity,1,False,avoid
+993,Long,one,O,Non-Entity,1,False,one
+993,Long,of,O,Non-Entity,1,False,of
+993,Long,the,O,Non-Entity,1,False,the
+993,Long,cars,O,Non-Entity,1,False,cars
+993,Long,that,O,Non-Entity,1,False,that
+993,Long,was,O,Non-Entity,1,False,was
+993,Long,to,O,Non-Entity,1,False,to
+993,Long,take,O,Non-Entity,1,False,take
+993,Long,part,O,Non-Entity,1,False,part
+993,Long,in,O,Non-Entity,1,False,in
+993,Long,the,O,Non-Entity,1,False,the
+993,Long,race,O,Non-Entity,1,False,race
+993,Long,.,O,Non-Entity,1,False,.
+742,Long,An,O,Non-Entity,1,False,An
+742,Long,Iraqi,B-MISC,Entity,1,False,Iraqi
+742,Long,opposition,O,Non-Entity,1,False,opposition
+742,Long,group,O,Non-Entity,1,False,group
+742,Long,in,O,Non-Entity,1,False,in
+742,Long,exile,O,Non-Entity,1,False,exile
+742,Long,said,O,Non-Entity,1,False,said
+742,Long,on,O,Non-Entity,1,False,on
+742,Long,Saturday,O,Non-Entity,1,False,Saturday
+742,Long,it,O,Non-Entity,1,False,it
+742,Long,had,O,Non-Entity,1,False,had
+742,Long,received,O,Non-Entity,1,False,received
+742,Long,reports,O,Non-Entity,1,False,reports
+742,Long,that,O,Non-Entity,1,False,that
+742,Long,Iraqi,B-MISC,Entity,1,False,Iraqi
+742,Long,forces,O,Non-Entity,1,False,forces
+742,Long,were,O,Non-Entity,1,False,were
+742,Long,shelling,O,Non-Entity,2,True,shell | ##ing
+742,Long,and,O,Non-Entity,1,False,and
+742,Long,advancing,O,Non-Entity,1,False,advancing
+742,Long,on,O,Non-Entity,1,False,on
+742,Long,the,O,Non-Entity,1,False,the
+742,Long,Kurdish,B-MISC,Entity,1,False,Kurdish
+742,Long,town,O,Non-Entity,1,False,town
+742,Long,of,O,Non-Entity,1,False,of
+742,Long,Arbil,B-LOC,Entity,3,True,A | ##rb | ##il
+742,Long,in,O,Non-Entity,1,False,in
+742,Long,northern,O,Non-Entity,1,False,northern
+742,Long,Iraq,B-LOC,Entity,1,False,Iraq
+742,Long,.,O,Non-Entity,1,False,.
+305,Long,Sihanouk,B-PER,Entity,4,True,Si | ##han | ##ou | ##k
+305,Long,promised,O,Non-Entity,1,False,promised
+305,Long,an,O,Non-Entity,1,False,an
+305,Long,amnesty,O,Non-Entity,3,True,am | ##nes | ##ty
+305,Long,to,O,Non-Entity,1,False,to
+305,Long,Hen,B-PER,Entity,2,True,He | ##n
+305,Long,Vipheak,I-PER,Entity,4,True,V | ##ip | ##hea | ##k
+305,Long,",",O,Non-Entity,1,False,","
+305,Long,along,O,Non-Entity,1,False,along
+305,Long,with,O,Non-Entity,1,False,with
+305,Long,fellow,O,Non-Entity,1,False,fellow
+305,Long,KNP,B-ORG,Entity,2,True,K | ##NP
+305,Long,member,O,Non-Entity,1,False,member
+305,Long,and,O,Non-Entity,1,False,and
+305,Long,journalist,O,Non-Entity,1,False,journalist
+305,Long,Chan,B-PER,Entity,1,False,Chan
+305,Long,Rattana,I-PER,Entity,2,True,Rat | ##tana
+305,Long,",",O,Non-Entity,1,False,","
+305,Long,who,O,Non-Entity,1,False,who
+305,Long,was,O,Non-Entity,1,False,was
+305,Long,released,O,Non-Entity,1,False,released
+305,Long,after,O,Non-Entity,1,False,after
+305,Long,serving,O,Non-Entity,1,False,serving
+305,Long,a,O,Non-Entity,1,False,a
+305,Long,week,O,Non-Entity,1,False,week
+305,Long,of,O,Non-Entity,1,False,of
+305,Long,a,O,Non-Entity,1,False,a
+305,Long,year-long,O,Non-Entity,3,True,year | - | long
+305,Long,jail,O,Non-Entity,1,False,jail
+305,Long,term,O,Non-Entity,1,False,term
+305,Long,in,O,Non-Entity,1,False,in
+305,Long,June,O,Non-Entity,1,False,June
+305,Long,.,O,Non-Entity,1,False,.
+64,Long,American,B-MISC,Entity,1,False,American
+64,Long,Tom,B-PER,Entity,1,False,Tom
+64,Long,Johnson,I-PER,Entity,1,False,Johnson
+64,Long,successfully,O,Non-Entity,1,False,successfully
+64,Long,defended,O,Non-Entity,1,False,defended
+64,Long,his,O,Non-Entity,1,False,his
+64,Long,IBF,B-ORG,Entity,2,True,I | ##BF
+64,Long,featherweight,O,Non-Entity,2,True,feather | ##weight
+64,Long,title,O,Non-Entity,1,False,title
+64,Long,when,O,Non-Entity,1,False,when
+64,Long,he,O,Non-Entity,1,False,he
+64,Long,earned,O,Non-Entity,1,False,earned
+64,Long,a,O,Non-Entity,1,False,a
+64,Long,unanimous,O,Non-Entity,1,False,unanimous
+64,Long,points,O,Non-Entity,1,False,points
+64,Long,decision,O,Non-Entity,1,False,decision
+64,Long,over,O,Non-Entity,1,False,over
+64,Long,Venezuela,B-LOC,Entity,1,False,Venezuela
+64,Long,'s,O,Non-Entity,2,True,' | s
+64,Long,Ramon,B-PER,Entity,1,False,Ramon
+64,Long,Guzman,I-PER,Entity,3,True,G | ##uz | ##man
+64,Long,on,O,Non-Entity,1,False,on
+64,Long,Saturday,O,Non-Entity,1,False,Saturday
+64,Long,.,O,Non-Entity,1,False,.
+475,Long,The,O,Non-Entity,1,False,The
+475,Long,reports,O,Non-Entity,1,False,reports
+475,Long,fanned,O,Non-Entity,2,True,fan | ##ned
+475,Long,worries,O,Non-Entity,1,False,worries
+475,Long,on,O,Non-Entity,1,False,on
+475,Long,Wall,B-LOC,Entity,1,False,Wall
+475,Long,Street,I-LOC,Entity,1,False,Street
+475,Long,that,O,Non-Entity,1,False,that
+475,Long,the,O,Non-Entity,1,False,the
+475,Long,Fed,B-ORG,Entity,1,False,Fed
+475,Long,",",O,Non-Entity,1,False,","
+475,Long,the,O,Non-Entity,1,False,the
+475,Long,nation,O,Non-Entity,1,False,nation
+475,Long,'s,O,Non-Entity,2,True,' | s
+475,Long,central,O,Non-Entity,1,False,central
+475,Long,bank,O,Non-Entity,1,False,bank
+475,Long,",",O,Non-Entity,1,False,","
+475,Long,would,O,Non-Entity,1,False,would
+475,Long,raise,O,Non-Entity,1,False,raise
+475,Long,rates,O,Non-Entity,1,False,rates
+475,Long,next,O,Non-Entity,1,False,next
+475,Long,month,O,Non-Entity,1,False,month
+475,Long,in,O,Non-Entity,1,False,in
+475,Long,a,O,Non-Entity,1,False,a
+475,Long,bid,O,Non-Entity,1,False,bid
+475,Long,to,O,Non-Entity,1,False,to
+475,Long,ward,O,Non-Entity,1,False,ward
+475,Long,off,O,Non-Entity,1,False,off
+475,Long,inflation,O,Non-Entity,1,False,inflation
+475,Long,",",O,Non-Entity,1,False,","
+475,Long,driving,O,Non-Entity,1,False,driving
+475,Long,stock,O,Non-Entity,1,False,stock
+475,Long,and,O,Non-Entity,1,False,and
+475,Long,bond,O,Non-Entity,1,False,bond
+475,Long,prices,O,Non-Entity,1,False,prices
+475,Long,sharply,O,Non-Entity,1,False,sharply
+475,Long,lower,O,Non-Entity,1,False,lower
+475,Long,for,O,Non-Entity,1,False,for
+475,Long,a,O,Non-Entity,1,False,a
+475,Long,second,O,Non-Entity,1,False,second
+475,Long,day,O,Non-Entity,1,False,day
+475,Long,running,O,Non-Entity,1,False,running
+475,Long,.,O,Non-Entity,1,False,.
+937,Long,"""",O,Non-Entity,1,False,""""
+937,Long,Yesterday,O,Non-Entity,1,False,Yesterday
+937,Long,the,O,Non-Entity,1,False,the
+937,Long,president,O,Non-Entity,1,False,president
+937,Long,ordered,O,Non-Entity,1,False,ordered
+937,Long,the,O,Non-Entity,1,False,the
+937,Long,Department,B-ORG,Entity,1,False,Department
+937,Long,of,I-ORG,Entity,1,False,of
+937,Long,Defense,I-ORG,Entity,1,False,Defense
+937,Long,to,O,Non-Entity,1,False,to
+937,Long,take,O,Non-Entity,1,False,take
+937,Long,prudent,O,Non-Entity,3,True,p | ##rud | ##ent
+937,Long,planning,O,Non-Entity,1,False,planning
+937,Long,steps,O,Non-Entity,1,False,steps
+937,Long,to,O,Non-Entity,1,False,to
+937,Long,have,O,Non-Entity,1,False,have
+937,Long,forces,O,Non-Entity,1,False,forces
+937,Long,ready,O,Non-Entity,1,False,ready
+937,Long,to,O,Non-Entity,1,False,to
+937,Long,deploy,O,Non-Entity,1,False,deploy
+937,Long,to,O,Non-Entity,1,False,to
+937,Long,the,O,Non-Entity,1,False,the
+937,Long,region,O,Non-Entity,1,False,region
+937,Long,should,O,Non-Entity,1,False,should
+937,Long,he,O,Non-Entity,1,False,he
+937,Long,direct,O,Non-Entity,1,False,direct
+937,Long,us,O,Non-Entity,1,False,us
+937,Long,to,O,Non-Entity,1,False,to
+937,Long,do,O,Non-Entity,1,False,do
+937,Long,so,O,Non-Entity,1,False,so
+937,Long,",",O,Non-Entity,1,False,","
+937,Long,"""",O,Non-Entity,1,False,""""
+937,Long,Pentagon,B-ORG,Entity,1,False,Pentagon
+937,Long,spokesman,O,Non-Entity,1,False,spokesman
+937,Long,Doug,B-PER,Entity,1,False,Doug
+937,Long,Kennett,I-PER,Entity,2,True,Ken | ##nett
+937,Long,said,O,Non-Entity,1,False,said
+937,Long,.,O,Non-Entity,1,False,.
+937,Long,"""",O,Non-Entity,1,False,""""
+756,Long,He,O,Non-Entity,1,False,He
+756,Long,added,O,Non-Entity,1,False,added
+756,Long,that,O,Non-Entity,1,False,that
+756,Long,with,O,Non-Entity,1,False,with
+756,Long,expansion,O,Non-Entity,1,False,expansion
+756,Long,as,O,Non-Entity,1,False,as
+756,Long,solid,O,Non-Entity,1,False,solid
+756,Long,as,O,Non-Entity,1,False,as
+756,Long,it,O,Non-Entity,1,False,it
+756,Long,is,O,Non-Entity,1,False,is
+756,Long,and,O,Non-Entity,1,False,and
+756,Long,with,O,Non-Entity,1,False,with
+756,Long,unemployment,O,Non-Entity,1,False,unemployment
+756,Long,so,O,Non-Entity,1,False,so
+756,Long,low,O,Non-Entity,1,False,low
+756,Long,"""",O,Non-Entity,1,False,""""
+756,Long,the,O,Non-Entity,1,False,the
+756,Long,greater,O,Non-Entity,1,False,greater
+756,Long,risks,O,Non-Entity,1,False,risks
+756,Long,are,O,Non-Entity,1,False,are
+756,Long,clearly,O,Non-Entity,1,False,clearly
+756,Long,that,O,Non-Entity,1,False,that
+756,Long,we,O,Non-Entity,1,False,we
+756,Long,might,O,Non-Entity,1,False,might
+756,Long,see,O,Non-Entity,1,False,see
+756,Long,some,O,Non-Entity,1,False,some
+756,Long,overheating,O,Non-Entity,3,True,over | ##heat | ##ing
+756,Long,.,O,Non-Entity,1,False,.
+756,Long,"""",O,Non-Entity,1,False,""""
+549,Long,"""",O,Non-Entity,1,False,""""
+549,Long,I,O,Non-Entity,1,False,I
+549,Long,have,O,Non-Entity,1,False,have
+549,Long,made,O,Non-Entity,1,False,made
+549,Long,choices,O,Non-Entity,1,False,choices
+549,Long,about,O,Non-Entity,1,False,about
+549,Long,certain,O,Non-Entity,1,False,certain
+549,Long,events,O,Non-Entity,1,False,events
+549,Long,based,O,Non-Entity,1,False,based
+549,Long,on,O,Non-Entity,1,False,on
+549,Long,my,O,Non-Entity,1,False,my
+549,Long,own,O,Non-Entity,1,False,own
+549,Long,extensive,O,Non-Entity,1,False,extensive
+549,Long,research,O,Non-Entity,1,False,research
+549,Long,into,O,Non-Entity,1,False,into
+549,Long,his,O,Non-Entity,1,False,his
+549,Long,letters,O,Non-Entity,1,False,letters
+549,Long,and,O,Non-Entity,1,False,and
+549,Long,reported,O,Non-Entity,1,False,reported
+549,Long,speeches,O,Non-Entity,1,False,speeches
+549,Long,",",O,Non-Entity,1,False,","
+549,Long,"""",O,Non-Entity,1,False,""""
+549,Long,he,O,Non-Entity,1,False,he
+549,Long,said,O,Non-Entity,1,False,said
+549,Long,.,O,Non-Entity,1,False,.
+549,Long,"""",O,Non-Entity,1,False,""""
+327,Long,Two,O,Non-Entity,1,False,Two
+327,Long,people,O,Non-Entity,1,False,people
+327,Long,were,O,Non-Entity,1,False,were
+327,Long,killed,O,Non-Entity,1,False,killed
+327,Long,when,O,Non-Entity,1,False,when
+327,Long,a,O,Non-Entity,1,False,a
+327,Long,hand,O,Non-Entity,1,False,hand
+327,Long,grenade,O,Non-Entity,1,False,grenade
+327,Long,exploded,O,Non-Entity,1,False,exploded
+327,Long,in,O,Non-Entity,1,False,in
+327,Long,a,O,Non-Entity,1,False,a
+327,Long,restaurant,O,Non-Entity,1,False,restaurant
+327,Long,near,O,Non-Entity,1,False,near
+327,Long,Algiers,B-LOC,Entity,1,False,Algiers
+327,Long,late,O,Non-Entity,1,False,late
+327,Long,on,O,Non-Entity,1,False,on
+327,Long,Friday,O,Non-Entity,1,False,Friday
+327,Long,",",O,Non-Entity,1,False,","
+327,Long,Algerian,B-MISC,Entity,1,False,Algerian
+327,Long,radio,O,Non-Entity,1,False,radio
+327,Long,reported,O,Non-Entity,1,False,reported
+327,Long,on,O,Non-Entity,1,False,on
+327,Long,Saturday,O,Non-Entity,1,False,Saturday
+327,Long,.,O,Non-Entity,1,False,.

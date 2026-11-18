@@ -1,0 +1,41 @@
+sentence_id,group,text,num_words,num_tokens,num_subword_splits,extra_subwords,R
+709,Short,"Women 's 5,000 metres",4,7,2,3,1.75
+687,Short,Chinese police hold veteran dissident .,6,8,1,2,1.3333333333333333
+208,Short,M1 63.02 62.83 57.50,4,10,3,6,2.5
+946,Short,COLORADO 70 65 .519 5,5,11,2,6,2.2
+828,Short,Escaped British paedophile recaptured .,5,10,2,5,2.0
+733,Short,"2007 90,000",2,4,1,2,2.0
+123,Short,Attendance : 200,3,3,0,0,1.0
+69,Short,Notts County 0 York 1,5,6,1,1,1.2
+589,Short,AMSTERDAM 1996-08-31,2,10,2,8,5.0
+990,Short,Haitai 64 2 43 .596 -,6,9,2,3,1.5
+398,Short,EASTERN DIVISION,2,9,2,7,4.5
+948,Short,Andy Colquhoun,2,6,1,4,3.0
+442,Short,LONDON 1996-08-30,2,9,2,7,4.5
+807,Short,1996 1995,2,2,0,0,1.0
+74,Short,CHICAGO 1996-08-30,2,9,2,7,4.5
+700,Short,May 20 v Durham,4,4,0,0,1.0
+765,Short,Men 's 110 metres hurdles,5,6,1,1,1.2
+404,Short,Glenn Somerville,2,3,1,1,1.5
+635,Short,SAN DIEGO AT MONTREAL,4,12,3,8,3.0
+493,Short,Scoreboard of the third Singer,5,6,1,1,1.2
+664,Long,"The 20-year-old Woods , who turned professional Tuesday after winning an unprecedented third successive U.S. Amateur Championship , struggled on the front nine , bogeying the first and seventh holes and double-bogeying the par-four , 359-yard ninth hole .",39,59,6,20,1.5128205128205128
+705,Long,Marriner said that NATO troops had set up a checkpoint on the road between Tuzla and Mahala to establish the identities and intentions of the men headed towards the village .,31,37,4,6,1.1935483870967742
+78,Long,Kent will also need to keep their nerve against struggling Nottinghamshire who will enter the final day 137 ahead with four wickets left in a relatively low-scoring match at Tunbridge Wells .,32,35,2,3,1.09375
+853,Long,""" This most recent measure represents a revival of old , malicious plans to confiscate the land and build units for Israeli settlers within the walls of the Old City . """,32,37,2,5,1.15625
+431,Long,"The loss was the Mets ' eighth straight , their longest slide since September 1993 , and dropped them to 0-4 under new manager Bobby Valentine .",27,29,1,2,1.0740740740740742
+760,Long,"In the broader market , declining issues beat advances 1,627 to 743 on moderate volume of 321 million shares on the New York Stock Exchange .",26,30,2,4,1.1538461538461537
+670,Long,A Reuters reporter who entered Mahala on Saturday morning found it tranquil but NATO troops and U.N. police were seen on the ground and NATO helicopters flew overhead .,29,37,4,8,1.2758620689655173
+159,Long,"While production and orders rose at Midwest area businesses , the prices they paid for goods used in manufacturing remained well in check .",24,24,0,0,1.0
+397,Long,"The attack comes a day after rebels of the self-styled Popular Revolutionary Army ( EPR ) launched coordinated attacks in at least three Mexican states , killing up to 14 people and wounding about 20 .",36,40,3,4,1.1111111111111112
+192,Long,"At Tunbridge Wells : Nottinghamshire 214 and 167-6 ( C. Tolley 64 not out ) , Kent 244 ( C. Hooper 58 ; C. Tolley 4-68 , K. Evans 4-71 )",31,46,10,15,1.4838709677419355
+582,Long,""" The RDR appeals to all refugees to prepare themselves calmly for the demands of the census agents because it will be in their ultimate interest , "" the group said in a statement .",35,36,1,1,1.0285714285714285
+993,Long,"Organisers tried to block off traffic while preparing the drag race late on Friday , but an allegedly drunk driver was unable to slow down in time and ran into a group of spectators as he swerved to avoid one of the cars that was to take part in the race .",52,55,2,3,1.0576923076923077
+742,Long,An Iraqi opposition group in exile said on Saturday it had received reports that Iraqi forces were shelling and advancing on the Kurdish town of Arbil in northern Iraq .,30,33,2,3,1.1
+305,Long,"Sihanouk promised an amnesty to Hen Vipheak , along with fellow KNP member and journalist Chan Rattana , who was released after serving a week of a year-long jail term in June .",33,46,7,13,1.393939393939394
+64,Long,American Tom Johnson successfully defended his IBF featherweight title when he earned a unanimous points decision over Venezuela 's Ramon Guzman on Saturday .,24,29,4,5,1.2083333333333333
+475,Long,"The reports fanned worries on Wall Street that the Fed , the nation 's central bank , would raise rates next month in a bid to ward off inflation , driving stock and bond prices sharply lower for a second day running .",43,45,2,2,1.0465116279069768
+937,Long,""" Yesterday the president ordered the Department of Defense to take prudent planning steps to have forces ready to deploy to the region should he direct us to do so , "" Pentagon spokesman Doug Kennett said . """,39,42,2,3,1.0769230769230769
+756,Long,"He added that with expansion as solid as it is and with unemployment so low "" the greater risks are clearly that we might see some overheating . """,29,31,1,2,1.0689655172413792
+549,Long,""" I have made choices about certain events based on my own extensive research into his letters and reported speeches , "" he said . """,26,26,0,0,1.0
+327,Long,"Two people were killed when a hand grenade exploded in a restaurant near Algiers late on Friday , Algerian radio reported on Saturday .",24,24,0,0,1.0

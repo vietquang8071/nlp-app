@@ -1,0 +1,495 @@
+Model,Sentence ID,Gold Entity,Gold Type,Predicted Overlap,Error Type
+Logistic Regression,0,Pro-Moscow,MISC,,Missed Entity
+Logistic Regression,6,LIFFE,ORG,,Missed Entity
+Logistic Regression,10,Changi Prison,LOC,Prison | Changi,Partial / Wrong Type
+Logistic Regression,10,Central Narcotics Bureau,ORG,Bureau | Central Narcotics,Partial / Wrong Type
+Logistic Regression,24,Bristol,LOC,Bristol,Partial / Wrong Type
+Logistic Regression,26,Adams,PER,Adams,Partial / Wrong Type
+Logistic Regression,26,Platt,PER,,Missed Entity
+Logistic Regression,30,Michoacan,LOC,Michoacan,Partial / Wrong Type
+Logistic Regression,31,UNITED NATIONS,ORG,NATIONS | UNITED,Partial / Wrong Type
+Logistic Regression,46,Wasps,ORG,,Missed Entity
+Logistic Regression,46,Sale,ORG,,Missed Entity
+Logistic Regression,47,WARSAW,LOC,,Missed Entity
+Logistic Regression,51,MEXICO CITY,LOC,MEXICO,Partial / Wrong Type
+Logistic Regression,53,LA CORUNA,LOC,CORUNA | LA,Partial / Wrong Type
+Logistic Regression,56,Douglas & Lomason,ORG,& | Lomason,Partial / Wrong Type
+Logistic Regression,60,Arbil,LOC,,Missed Entity
+Logistic Regression,61,Milan,LOC,Milan,Partial / Wrong Type
+Logistic Regression,64,IBF,ORG,,Missed Entity
+Logistic Regression,65,Wall,PER,,Missed Entity
+Logistic Regression,67,Severine,PER,Severine,Partial / Wrong Type
+Logistic Regression,71,Sami Aboudi,PER,Sami Aboudi,Partial / Wrong Type
+Logistic Regression,72,EOE,ORG,,Missed Entity
+Logistic Regression,72,Lex van Drooge,PER,van | Lex | Drooge,Partial / Wrong Type
+Logistic Regression,74,CHICAGO,LOC,CHICAGO,Partial / Wrong Type
+Logistic Regression,78,Tunbridge Wells,LOC,Tunbridge | Wells,Partial / Wrong Type
+Logistic Regression,82,Ince,PER,,Missed Entity
+Logistic Regression,87,Puig,PER,Puig,Partial / Wrong Type
+Logistic Regression,87,Bertillon 166,MISC,Bertillon,Partial / Wrong Type
+Logistic Regression,88,Reagan Communications,ORG,Reagan | Communications,Partial / Wrong Type
+Logistic Regression,88,Titanic,MISC,Titanic,Partial / Wrong Type
+Logistic Regression,90,Pirelli,ORG,Pirelli,Partial / Wrong Type
+Logistic Regression,91,U.S.-led,MISC,,Missed Entity
+Logistic Regression,110,Honiball,PER,Honiball,Partial / Wrong Type
+Logistic Regression,113,IRA,ORG,IRA,Partial / Wrong Type
+Logistic Regression,116,Dushanbe,LOC,Dushanbe,Partial / Wrong Type
+Logistic Regression,117,U. Chandana,PER,U. | Chandana,Partial / Wrong Type
+Logistic Regression,119,Far East,LOC,Far | East,Partial / Wrong Type
+Logistic Regression,122,Dallas,LOC,Dallas,Partial / Wrong Type
+Logistic Regression,124,Jorge Luis Dely Valdes,PER,Luis Dely Valdes | Jorge,Partial / Wrong Type
+Logistic Regression,125,Ruch,ORG,Ruch,Partial / Wrong Type
+Logistic Regression,127,GRONINGEN,LOC,GRONINGEN,Partial / Wrong Type
+Logistic Regression,131,Sueddeutsche Zeitung,ORG,Zeitung | Sueddeutsche,Partial / Wrong Type
+Logistic Regression,135,Washington,PER,Washington,Partial / Wrong Type
+Logistic Regression,135,Texan,MISC,Texan,Partial / Wrong Type
+Logistic Regression,139,Ruch,ORG,Ruch,Partial / Wrong Type
+Logistic Regression,141,South Carolina,LOC,South Carolina,Partial / Wrong Type
+Logistic Regression,145,English National League,MISC,National League | English,Partial / Wrong Type
+Logistic Regression,146,Leander Paes,PER,Leander | Paes,Partial / Wrong Type
+Logistic Regression,148,Liechtenstein,LOC,Liechtenstein,Partial / Wrong Type
+Logistic Regression,148,Republic of Ireland,LOC,Republic | Ireland,Partial / Wrong Type
+Logistic Regression,150,Xiao,PER,Xiao,Partial / Wrong Type
+Logistic Regression,152,Los Angeles,ORG,Los | Angeles,Partial / Wrong Type
+Logistic Regression,153,WBA,ORG,,Missed Entity
+Logistic Regression,155,Naina Yeltsin,PER,Naina | Yeltsin,Partial / Wrong Type
+Logistic Regression,155,Central Clinical Hospital,LOC,Hospital | Central Clinical,Partial / Wrong Type
+Logistic Regression,157,Duke of Norfolk 's XI,ORG,Duke | Norfolk,Partial / Wrong Type
+Logistic Regression,161,Mohamed Lemine Cheiguer,PER,Lemine | Mohamed | Cheiguer,Partial / Wrong Type
+Logistic Regression,161,Mauritania,LOC,Mauritania,Partial / Wrong Type
+Logistic Regression,163,Washington,PER,Washington,Partial / Wrong Type
+Logistic Regression,166,Sergei Posukhov,PER,Sergei | Posukhov,Partial / Wrong Type
+Logistic Regression,171,Alberto Garcia Aspe,PER,Alberto | Garcia Aspe,Partial / Wrong Type
+Logistic Regression,171,Joaquin del Olmo,PER,Olmo | Joaquin,Partial / Wrong Type
+Logistic Regression,171,Becerril,PER,,Missed Entity
+Logistic Regression,171,Francisco Palencia,PER,Francisco | Palencia,Partial / Wrong Type
+Logistic Regression,171,German Villa,PER,Villa | German,Partial / Wrong Type
+Logistic Regression,172,PT Timor Putra Nasional,ORG,PT Timor Putra | Nasional,Partial / Wrong Type
+Logistic Regression,172,Kia,ORG,Kia,Partial / Wrong Type
+Logistic Regression,178,ROBERTO DURAN,PER,DURAN,Partial / Wrong Type
+Logistic Regression,178,PANAMA,LOC,PANAMA,Partial / Wrong Type
+Logistic Regression,179,Kuwaiti,MISC,Kuwaiti,Partial / Wrong Type
+Logistic Regression,184,Roermond,LOC,Roermond,Partial / Wrong Type
+Logistic Regression,192,Tunbridge Wells,LOC,Tunbridge,Partial / Wrong Type
+Logistic Regression,196,British Broadcasting Corporation,ORG,British | Broadcasting Corporation,Partial / Wrong Type
+Logistic Regression,201,Apic Yamada Corp,ORG,Apic | Yamada Corp,Partial / Wrong Type
+Logistic Regression,203,Pirelli,ORG,Pirelli,Partial / Wrong Type
+Logistic Regression,206,Guangzhou,LOC,,Missed Entity
+Logistic Regression,207,Patriotic Union of Kurdistan,ORG,Kurdistan | Union of | Patriotic,Partial / Wrong Type
+Logistic Regression,207,Iraqi News Agency,ORG,Iraqi | News Agency,Partial / Wrong Type
+Logistic Regression,207,Jalal Talabani,PER,Talabani | Jalal,Partial / Wrong Type
+Logistic Regression,209,Leeds,LOC,Leeds,Partial / Wrong Type
+Logistic Regression,209,Headingley,LOC,Headingley,Partial / Wrong Type
+Logistic Regression,210,Khmer Nation Party,ORG,Khmer | Nation Party,Partial / Wrong Type
+Logistic Regression,214,LENTINI,PER,LENTINI,Partial / Wrong Type
+Logistic Regression,214,ATALANTA,ORG,ATALANTA,Partial / Wrong Type
+Logistic Regression,214,MILAN,ORG,MILAN 'S,Partial / Wrong Type
+Logistic Regression,215,SAN DIEGO,ORG,DIEGO | SAN,Partial / Wrong Type
+Logistic Regression,219,NLD,ORG,,Missed Entity
+Logistic Regression,219,Suu Kyi,PER,Kyi | Suu,Partial / Wrong Type
+Logistic Regression,219,National League for Democracy,ORG,Democracy | National League,Partial / Wrong Type
+Logistic Regression,222,Such,PER,,Missed Entity
+Logistic Regression,223,BEIJING,LOC,,Missed Entity
+Logistic Regression,224,Reynard Honda,ORG,Reynard Honda,Partial / Wrong Type
+Logistic Regression,225,Estes,PER,,Missed Entity
+Logistic Regression,225,Texas Open,MISC,Texas | Open,Partial / Wrong Type
+Logistic Regression,236,Samer Ammar Soliman,PER,Samer | Ammar | Soliman,Partial / Wrong Type
+Logistic Regression,237,Boxing-Bruno,MISC,,Missed Entity
+Logistic Regression,238,KANSAS CITY,ORG,CITY | KANSAS,Partial / Wrong Type
+Logistic Regression,243,LM Ericsson AB,ORG,Ericsson | LM | AB,Partial / Wrong Type
+Logistic Regression,247,GREATER MILWAUKEE OPEN,MISC,GREATER | MILWAUKEE OPEN,Partial / Wrong Type
+Logistic Regression,248,Suu Kyi,PER,Suu | Kyi,Partial / Wrong Type
+Logistic Regression,252,MEDIA INDONESIA,ORG,INDONESIA,Partial / Wrong Type
+Logistic Regression,257,Cleveland,ORG,Cleveland,Partial / Wrong Type
+Logistic Regression,257,Texas,LOC,Texas,Partial / Wrong Type
+Logistic Regression,266,Nyerere,PER,Nyerere,Partial / Wrong Type
+Logistic Regression,266,Lay Volunteers ' International Organisation,ORG,International Organisation | Lay Volunteers,Partial / Wrong Type
+Logistic Regression,266,Artisans for Peace,MISC,Artisans | Peace,Partial / Wrong Type
+Logistic Regression,269,BRITISH MASTERS,MISC,BRITISH,Partial / Wrong Type
+Logistic Regression,272,Trevor Holland,PER,Trevor | Holland,Partial / Wrong Type
+Logistic Regression,272,Worthing,LOC,,Missed Entity
+Logistic Regression,275,FAROES,LOC,,Missed Entity
+Logistic Regression,278,Djorkaeff,PER,,Missed Entity
+Logistic Regression,278,Barcelona,LOC,Barcelona,Partial / Wrong Type
+Logistic Regression,278,Joaquin del Olmo,PER,Joaquin | Olmo,Partial / Wrong Type
+Logistic Regression,282,Milwaukee,ORG,Milwaukee,Partial / Wrong Type
+Logistic Regression,290,Far Eastern,MISC,Eastern | Far,Partial / Wrong Type
+Logistic Regression,290,Pirelli,ORG,Pirelli,Partial / Wrong Type
+Logistic Regression,291,El Al,ORG,Al | El,Partial / Wrong Type
+Logistic Regression,294,British Labour Party,ORG,British | Labour Party,Partial / Wrong Type
+Logistic Regression,296,Suu Kyi,PER,Suu | Kyi,Partial / Wrong Type
+Logistic Regression,304,P. DeFreitas,PER,P.,Partial / Wrong Type
+Logistic Regression,305,Sihanouk,PER,Sihanouk,Partial / Wrong Type
+Logistic Regression,305,KNP,ORG,,Missed Entity
+Logistic Regression,307,SPC,ORG,,Missed Entity
+Logistic Regression,307,UWP-Hachette,ORG,,Missed Entity
+Logistic Regression,311,LA PRESSE,ORG,LA,Partial / Wrong Type
+Logistic Regression,313,Kinkel,PER,Kinkel,Partial / Wrong Type
+Logistic Regression,316,Nyerere,PER,,Missed Entity
+Logistic Regression,316,Roman Catholic,MISC,Roman | Catholic,Partial / Wrong Type
+Logistic Regression,316,Sant ' Egidio Community,ORG,Community | Egidio | Sant,Partial / Wrong Type
+Logistic Regression,320,AK-47s,MISC,,Missed Entity
+Logistic Regression,324,Newbridge,ORG,,Missed Entity
+Logistic Regression,331,Red Star,ORG,Red Star,Partial / Wrong Type
+Logistic Regression,331,Alba,ORG,Alba,Partial / Wrong Type
+Logistic Regression,336,UNIFIL,ORG,UNIFIL,Partial / Wrong Type
+Logistic Regression,336,U.N. Interim Force in Lebanon,ORG,Lebanon | U.N. Interim Force,Partial / Wrong Type
+Logistic Regression,337,Russian Federation,LOC,Russian | Federation,Partial / Wrong Type
+Logistic Regression,337,Chechen Republic,LOC,Chechen | Republic,Partial / Wrong Type
+Logistic Regression,339,Hong Kong Open,MISC,Open | Hong Kong,Partial / Wrong Type
+Logistic Regression,342,Comelf,ORG,,Missed Entity
+Logistic Regression,346,Honiball,PER,Honiball,Partial / Wrong Type
+Logistic Regression,346,All Black,ORG,Black | All,Partial / Wrong Type
+Logistic Regression,346,Sean Fitzpatrick,PER,Fitzpatrick | Sean,Partial / Wrong Type
+Logistic Regression,348,Vienna-based,MISC,,Missed Entity
+Logistic Regression,352,Suu Kyi,PER,Suu | Kyi,Partial / Wrong Type
+Logistic Regression,353,TD Securities Inc,ORG,Securities Inc | TD,Partial / Wrong Type
+Logistic Regression,364,Levoxyl,MISC,Levoxyl,Partial / Wrong Type
+Logistic Regression,364,Daniels Pharmaceuticals,ORG,Daniels | Pharmaceuticals,Partial / Wrong Type
+Logistic Regression,366,ISTANBUL,LOC,,Missed Entity
+Logistic Regression,368,ALL BLACKS,ORG,,Missed Entity
+Logistic Regression,369,FOMC,ORG,,Missed Entity
+Logistic Regression,371,Gulf,LOC,Gulf,Partial / Wrong Type
+Logistic Regression,386,Multico,ORG,Multico,Partial / Wrong Type
+Logistic Regression,386,Zycie Warszawy,ORG,Zycie Warszawy,Partial / Wrong Type
+Logistic Regression,389,Treasuries,ORG,Treasuries,Partial / Wrong Type
+Logistic Regression,394,Magna,ORG,Magna,Partial / Wrong Type
+Logistic Regression,397,Popular Revolutionary Army,ORG,Army | Popular,Partial / Wrong Type
+Logistic Regression,400,Kansas City,LOC,City | Kansas,Partial / Wrong Type
+Logistic Regression,403,Fredericks,PER,,Missed Entity
+Logistic Regression,404,Glenn Somerville,PER,Glenn | Somerville,Partial / Wrong Type
+Logistic Regression,405,Buyoya,PER,Buyoya,Partial / Wrong Type
+Logistic Regression,406,1997 FED CUP,MISC,FED CUP,Partial / Wrong Type
+Logistic Regression,413,CARDIFF,LOC,,Missed Entity
+Logistic Regression,414,INCE,PER,,Missed Entity
+Logistic Regression,415,Magna,ORG,Magna,Partial / Wrong Type
+Logistic Regression,415,Douglas & Lomason,ORG,Douglas | & | Lomason,Partial / Wrong Type
+Logistic Regression,418,El Hassane Lahssini,PER,Hassane Lahssini | El,Partial / Wrong Type
+Logistic Regression,426,Wall Street,LOC,Wall | Street,Partial / Wrong Type
+Logistic Regression,429,London Newsroom,ORG,Newsroom | London,Partial / Wrong Type
+Logistic Regression,430,Boatmen 's Bancshares Inc.,ORG,Boatmen | Inc. | Bancshares,Partial / Wrong Type
+Logistic Regression,430,NationsBank Corp.,ORG,,Missed Entity
+Logistic Regression,434,UWP-Hachette,ORG,,Missed Entity
+Logistic Regression,434,SPC,ORG,,Missed Entity
+Logistic Regression,439,LOS ANGELES,LOC,ANGELES | LOS,Partial / Wrong Type
+Logistic Regression,440,ASHES,MISC,,Missed Entity
+Logistic Regression,446,MADRID,LOC,,Missed Entity
+Logistic Regression,450,1998 WORLD CUP,MISC,WORLD CUP,Partial / Wrong Type
+Logistic Regression,455,Ingram,PER,Ingram,Partial / Wrong Type
+Logistic Regression,455,Orr,PER,,Missed Entity
+Logistic Regression,455,Thatcher,PER,,Missed Entity
+Logistic Regression,468,Holy City of Jerusalem,LOC,Jerusalem | Holy City,Partial / Wrong Type
+Logistic Regression,468,Palestinian Liberation Organisation,ORG,Palestinian | Liberation Organisation,Partial / Wrong Type
+Logistic Regression,469,Joubert,PER,Instead Joubert,Partial / Wrong Type
+Logistic Regression,470,BELGRADE,LOC,,Missed Entity
+Logistic Regression,473,CHICAGO,LOC,CHICAGO,Partial / Wrong Type
+Logistic Regression,481,Colorado,ORG,Colorado,Partial / Wrong Type
+Logistic Regression,482,MILWAUKEE,LOC,MILWAUKEE,Partial / Wrong Type
+Logistic Regression,483,Xinhua,ORG,Xinhua,Partial / Wrong Type
+Logistic Regression,485,WELSH,MISC,,Missed Entity
+Logistic Regression,486,NEW YORK,ORG,YORK | NEW,Partial / Wrong Type
+Logistic Regression,490,Faroe Islands,LOC,Islands | Faroe,Partial / Wrong Type
+Logistic Regression,493,Singer,MISC,,Missed Entity
+Logistic Regression,496,Bruno,PER,Bruno,Partial / Wrong Type
+Logistic Regression,496,Briton,MISC,Briton,Partial / Wrong Type
+Logistic Regression,501,Tanjung Priok,LOC,Tanjung Priok,Partial / Wrong Type
+Logistic Regression,501,Kia Motor Corp,ORG,Motor Corp | Kia,Partial / Wrong Type
+Logistic Regression,505,Cultural Revolution,MISC,Cultural,Partial / Wrong Type
+Logistic Regression,506,Montreal,LOC,Montreal,Partial / Wrong Type
+Logistic Regression,507,ST LOUIS,LOC,LOUIS | ST,Partial / Wrong Type
+Logistic Regression,510,OIC,ORG,,Missed Entity
+Logistic Regression,513,Lilian Thuram,PER,Thuram | Lilian,Partial / Wrong Type
+Logistic Regression,513,Florian Maurice,PER,Florian | Maurice,Partial / Wrong Type
+Logistic Regression,515,NOUAKCHOTT,LOC,,Missed Entity
+Logistic Regression,524,All Black,ORG,Black | All,Partial / Wrong Type
+Logistic Regression,525,NationsBank,ORG,,Missed Entity
+Logistic Regression,525,Edward D. Jones & Co,ORG,D. Jones | Edward | & Co,Partial / Wrong Type
+Logistic Regression,527,Saint-Bernard,LOC,Saint-Bernard,Partial / Wrong Type
+Logistic Regression,527,Conakry,LOC,,Missed Entity
+Logistic Regression,536,Mary Joe Fernandez,PER,Fernandez | Joe | Mary,Partial / Wrong Type
+Logistic Regression,536,Lindsay,PER,,Missed Entity
+Logistic Regression,540,Cunningham,PER,Cunningham,Partial / Wrong Type
+Logistic Regression,545,Mickey Rivers,PER,Mickey | Rivers,Partial / Wrong Type
+Logistic Regression,550,Aerodrom Beograd,LOC,Beograd | Aerodrom,Partial / Wrong Type
+Logistic Regression,553,Airdrieonians,ORG,Airdrieonians,Partial / Wrong Type
+Logistic Regression,556,Rwanda,LOC,Rwanda,Partial / Wrong Type
+Logistic Regression,561,Alan,PER,Alan,Partial / Wrong Type
+Logistic Regression,566,Afrikaners,MISC,Afrikaners,Partial / Wrong Type
+Logistic Regression,575,Goma,LOC,Goma,Partial / Wrong Type
+Logistic Regression,577,Gazzetta dello Sport,ORG,Gazzetta | Sport,Partial / Wrong Type
+Logistic Regression,578,El Salvador,LOC,El Salvador,Partial / Wrong Type
+Logistic Regression,582,RDR,ORG,,Missed Entity
+Logistic Regression,592,BAKU,LOC,,Missed Entity
+Logistic Regression,593,Bruno,PER,Bruno,Partial / Wrong Type
+Logistic Regression,595,Mobil,ORG,Mobil,Partial / Wrong Type
+Logistic Regression,595,Shell,ORG,Shell,Partial / Wrong Type
+Logistic Regression,596,NationsBank,ORG,,Missed Entity
+Logistic Regression,596,Boatmen 's,ORG,Boatmen,Partial / Wrong Type
+Logistic Regression,600,Dini,PER,,Missed Entity
+Logistic Regression,600,Nyerere,PER,,Missed Entity
+Logistic Regression,601,Stars and Stripes,MISC,,Missed Entity
+Logistic Regression,603,Rami al-Saadani,PER,Rami,Partial / Wrong Type
+Logistic Regression,608,Europe,LOC,Europe,Partial / Wrong Type
+Logistic Regression,608,Europe,LOC,Europe,Partial / Wrong Type
+Logistic Regression,610,Zenon Poznyak,PER,Zenon | Poznyak,Partial / Wrong Type
+Logistic Regression,611,God,PER,God,Partial / Wrong Type
+Logistic Regression,614,N. Korea,LOC,N. | Korea,Partial / Wrong Type
+Logistic Regression,615,DALLAS,LOC,,Missed Entity
+Logistic Regression,618,ERA,MISC,,Missed Entity
+Logistic Regression,621,Kalashnikov,MISC,Kalashnikov,Partial / Wrong Type
+Logistic Regression,624,Commerce,ORG,,Missed Entity
+Logistic Regression,624,Mercantile,ORG,,Missed Entity
+Logistic Regression,625,El Al,ORG,El | Al,Partial / Wrong Type
+Logistic Regression,627,Dow Chemical,ORG,Dow | Chemical,Partial / Wrong Type
+Logistic Regression,648,Wuhan,LOC,Wuhan,Partial / Wrong Type
+Logistic Regression,650,Briton,MISC,Briton,Partial / Wrong Type
+Logistic Regression,657,DNIB,ORG,,Missed Entity
+Logistic Regression,660,Jackson Hole symposium,MISC,Hole | Jackson,Partial / Wrong Type
+Logistic Regression,664,U.S. Amateur Championship,MISC,U.S. | Amateur | Championship,Partial / Wrong Type
+Logistic Regression,665,EL SALVADOR,LOC,EL,Partial / Wrong Type
+Logistic Regression,668,Berlin,MISC,Berlin,Partial / Wrong Type
+Logistic Regression,671,Northern Cape,LOC,Northern | Cape,Partial / Wrong Type
+Logistic Regression,673,Rwanda,LOC,Rwanda,Partial / Wrong Type
+Logistic Regression,674,Miguel Angel Jimenez,PER,Angel | Miguel | Jimenez,Partial / Wrong Type
+Logistic Regression,677,RMS Titanic,MISC,RMS,Partial / Wrong Type
+Logistic Regression,679,Watsonians,ORG,Watsonians,Partial / Wrong Type
+Logistic Regression,679,Jed-Forest,ORG,,Missed Entity
+Logistic Regression,680,Blitz,MISC,,Missed Entity
+Logistic Regression,682,Farrakhan,PER,Farrakhan,Partial / Wrong Type
+Logistic Regression,682,Million Man March,MISC,Million | Man,Partial / Wrong Type
+Logistic Regression,683,Prensa Latina,ORG,Prensa Latina,Partial / Wrong Type
+Logistic Regression,686,LIECHTENSTEIN,LOC,LIECHTENSTEIN,Partial / Wrong Type
+Logistic Regression,688,Surinamese-born,MISC,,Missed Entity
+Logistic Regression,691,NEW YORK,ORG,NEW YORK,Partial / Wrong Type
+Logistic Regression,703,National Bank of Romania,ORG,Romania | National Bank of,Partial / Wrong Type
+Logistic Regression,708,MILAN,LOC,MILAN,Partial / Wrong Type
+Logistic Regression,710,Lotte,ORG,Lotte,Partial / Wrong Type
+Logistic Regression,711,A.de Silva,PER,,Missed Entity
+Logistic Regression,712,TOUR OF NETHERLANDS,MISC,NETHERLANDS | OF,Partial / Wrong Type
+Logistic Regression,715,Statistics Canada,ORG,Canada,Partial / Wrong Type
+Logistic Regression,716,Warner Bros,ORG,Warner Bros,Partial / Wrong Type
+Logistic Regression,719,Boatmen 's,ORG,Boatmen,Partial / Wrong Type
+Logistic Regression,720,Petofi,ORG,Petofi,Partial / Wrong Type
+Logistic Regression,723,Dublin Newsroom,ORG,Dublin | Newsroom,Partial / Wrong Type
+Logistic Regression,727,PANAMA CITY,LOC,PANAMA,Partial / Wrong Type
+Logistic Regression,729,Wall Street,LOC,Wall | Street,Partial / Wrong Type
+Logistic Regression,734,Tajik,MISC,Tajik,Partial / Wrong Type
+Logistic Regression,741,ESCHEN,LOC,,Missed Entity
+Logistic Regression,741,Liechtenstein,LOC,Liechtenstein,Partial / Wrong Type
+Logistic Regression,749,Roosevelt Financial Group Inc,ORG,Roosevelt | Financial Group Inc,Partial / Wrong Type
+Logistic Regression,749,asset-St .,MISC,,Missed Entity
+Logistic Regression,755,MANAMA,LOC,,Missed Entity
+Logistic Regression,757,Clintons,PER,,Missed Entity
+Logistic Regression,757,Whitewater,LOC,,Missed Entity
+Logistic Regression,761,Labour,ORG,Labour,Partial / Wrong Type
+Logistic Regression,761,Scottish National Party,ORG,Scottish | National Party,Partial / Wrong Type
+Logistic Regression,764,PARNEVIK,PER,PARNEVIK,Partial / Wrong Type
+Logistic Regression,764,GREATER MILWAUKEE OPEN,MISC,GREATER | MILWAUKEE OPEN,Partial / Wrong Type
+Logistic Regression,774,Duran,PER,Duran,Partial / Wrong Type
+Logistic Regression,774,"Hector "" Macho "" Camacho",PER,Macho | Hector,Partial / Wrong Type
+Logistic Regression,777,Sunderland,ORG,Sunderland,Partial / Wrong Type
+Logistic Regression,777,Norwich,ORG,Norwich,Partial / Wrong Type
+Logistic Regression,779,HENKE,PER,,Missed Entity
+Logistic Regression,779,WOODS,PER,,Missed Entity
+Logistic Regression,781,HILL,PER,,Missed Entity
+Logistic Regression,781,JANSHER,PER,,Missed Entity
+Logistic Regression,782,House of Lords,ORG,Lords | House,Partial / Wrong Type
+Logistic Regression,782,Trades Disputes Act,MISC,Trades | Disputes Act,Partial / Wrong Type
+Logistic Regression,784,HONG KONG OPEN,MISC,OPEN | HONG KONG,Partial / Wrong Type
+Logistic Regression,789,Zeleznik ( B ),ORG,B | Zeleznik,Partial / Wrong Type
+Logistic Regression,790,American Catholics,MISC,American | Catholics,Partial / Wrong Type
+Logistic Regression,792,Wang,PER,Wang,Partial / Wrong Type
+Logistic Regression,801,Red Star,ORG,Red Star,Partial / Wrong Type
+Logistic Regression,801,Alba,ORG,Alba,Partial / Wrong Type
+Logistic Regression,804,McGwire,PER,,Missed Entity
+Logistic Regression,808,Ericsson,ORG,Ericsson,Partial / Wrong Type
+Logistic Regression,809,Hla Than,PER,Hla | Than,Partial / Wrong Type
+Logistic Regression,809,NLD,ORG,,Missed Entity
+Logistic Regression,813,SILVA,PER,SILVA 'S,Partial / Wrong Type
+Logistic Regression,820,Gulf,LOC,Gulf,Partial / Wrong Type
+Logistic Regression,820,Enterprise,MISC,Enterprise,Partial / Wrong Type
+Logistic Regression,820,Carl Vinson,MISC,Carl Vinson,Partial / Wrong Type
+Logistic Regression,826,MITCHELL,PER,,Missed Entity
+Logistic Regression,826,BAILEY,PER,,Missed Entity
+Logistic Regression,832,Dole,PER,Dole,Partial / Wrong Type
+Logistic Regression,835,Korean,MISC,Korean War,Partial / Wrong Type
+Logistic Regression,836,Air France,ORG,Air | France,Partial / Wrong Type
+Logistic Regression,837,Human Rights in China,ORG,Human Rights | China,Partial / Wrong Type
+Logistic Regression,837,New York-based,MISC,New,Partial / Wrong Type
+Logistic Regression,839,Douglas & Lomason,ORG,& | Lomason,Partial / Wrong Type
+Logistic Regression,842,Moslem,MISC,Moslem,Partial / Wrong Type
+Logistic Regression,847,Severine Potty,PER,Potty | Severine,Partial / Wrong Type
+Logistic Regression,850,World Series of Golf,MISC,Golf | World Series,Partial / Wrong Type
+Logistic Regression,850,Kraft,PER,,Missed Entity
+Logistic Regression,851,Leicester,ORG,,Missed Entity
+Logistic Regression,860,National Association of Purchasing Management,ORG,Management | National Association of Purchasing,Partial / Wrong Type
+Logistic Regression,860,NAPM,ORG,NAPM,Partial / Wrong Type
+Logistic Regression,863,TOFTIR,LOC,,Missed Entity
+Logistic Regression,863,Faroe Islands,LOC,Faroe Islands,Partial / Wrong Type
+Logistic Regression,865,Scotland,LOC,Scotland,Partial / Wrong Type
+Logistic Regression,866,Homegate Hospitality Inc,ORG,Name Homegate Hospitality Inc,Partial / Wrong Type
+Logistic Regression,866,Name,MISC,Name Homegate Hospitality Inc,Partial / Wrong Type
+Logistic Regression,867,Bath,ORG,,Missed Entity
+Logistic Regression,870,Northern Ireland,LOC,Northern | Ireland,Partial / Wrong Type
+Logistic Regression,876,Tour of the Netherlands,MISC,Netherlands | Tour,Partial / Wrong Type
+Logistic Regression,885,Holland,PER,Holland,Partial / Wrong Type
+Logistic Regression,888,Jesper Parnevik,PER,Parnevik | Jesper,Partial / Wrong Type
+Logistic Regression,890,ARLINGTON,LOC,ARLINGTON,Partial / Wrong Type
+Logistic Regression,890,Texas,LOC,Texas,Partial / Wrong Type
+Logistic Regression,895,Tattersalls Breeders,MISC,Tattersalls Breeders,Partial / Wrong Type
+Logistic Regression,900,Jansher,PER,,Missed Entity
+Logistic Regression,902,Shawn Estes,PER,Shawn | Estes,Partial / Wrong Type
+Logistic Regression,907,REAL,ORG,,Missed Entity
+Logistic Regression,908,Radnicki ( N ),ORG,Radnicki | N,Partial / Wrong Type
+Logistic Regression,915,1966-76 Cultural Revolution,MISC,,Missed Entity
+Logistic Regression,918,NEW YORK,ORG,YORK | NEW,Partial / Wrong Type
+Logistic Regression,934,Wallaby,ORG,Wallaby,Partial / Wrong Type
+Logistic Regression,934,Leicester,LOC,Leicester,Partial / Wrong Type
+Logistic Regression,937,Department of Defense,ORG,Department of,Partial / Wrong Type
+Logistic Regression,938,Khurshid Alam,PER,Khurshid | Alam,Partial / Wrong Type
+Logistic Regression,939,IRA,ORG,IRA,Partial / Wrong Type
+Logistic Regression,941,Insein Prison,LOC,Insein Prison,Partial / Wrong Type
+Logistic Regression,942,Hollioake,PER,Hollioake,Partial / Wrong Type
+Logistic Regression,943,FTSE,MISC,,Missed Entity
+Logistic Regression,945,Gust,PER,,Missed Entity
+Logistic Regression,950,al-Daih,LOC,,Missed Entity
+Logistic Regression,952,Damascus,LOC,Damascus,Partial / Wrong Type
+Logistic Regression,958,WARSAW,LOC,,Missed Entity
+Logistic Regression,959,KeyCorp,ORG,,Missed Entity
+Logistic Regression,960,Indonesian-origin,MISC,,Missed Entity
+Logistic Regression,961,James Alfred Van Allen,PER,Alfred Van Allen | James,Partial / Wrong Type
+Logistic Regression,962,Barnett Banks Inc.,ORG,Banks Inc. | Barnett,Partial / Wrong Type
+Logistic Regression,964,Raymond James,PER,James | Raymond,Partial / Wrong Type
+Logistic Regression,970,Wang Donghai,PER,Wang | Donghai,Partial / Wrong Type
+Logistic Regression,973,St Louis,LOC,St | Louis,Partial / Wrong Type
+Logistic Regression,977,Queen of South,ORG,of South,Partial / Wrong Type
+Logistic Regression,981,WIGAN,LOC,WIGAN,Partial / Wrong Type
+Logistic Regression,986,Der Spiegel,ORG,Der Spiegel,Partial / Wrong Type
+Logistic Regression,987,Caerphilly,ORG,,Missed Entity
+Logistic Regression,987,Newport,ORG,,Missed Entity
+Logistic Regression,996,LANDGRAAF,LOC,,Missed Entity
+Logistic Regression,997,Tiananmen Square,LOC,Square,Partial / Wrong Type
+BERT,0,Pro-Moscow,MISC,,Missed Entity
+BERT,31,UNITED NATIONS,ORG,UNITED NATIONS,Partial / Wrong Type
+BERT,35,Dow Jones,MISC,Dow Jones,Partial / Wrong Type
+BERT,40,Eurodollars,MISC,Eurodollars,Partial / Wrong Type
+BERT,64,IBF,ORG,IBF,Partial / Wrong Type
+BERT,87,Bertillon 166,MISC,Bertillon,Partial / Wrong Type
+BERT,88,Boston-based,MISC,Boston-based,Partial / Wrong Type
+BERT,105,House of Representatives,ORG,House of,Partial / Wrong Type
+BERT,106,Seattle,ORG,Seattle,Partial / Wrong Type
+BERT,113,IRA,ORG,IRA,Partial / Wrong Type
+BERT,119,Far East,LOC,Far | East,Partial / Wrong Type
+BERT,152,Los Angeles,ORG,Los Angeles,Partial / Wrong Type
+BERT,153,WBA,ORG,WBA,Partial / Wrong Type
+BERT,157,Duke of Norfolk 's XI,ORG,of Norfolk 's | Duke,Partial / Wrong Type
+BERT,159,Midwest,LOC,Midwest,Partial / Wrong Type
+BERT,171,Becerril,PER,Becerril,Partial / Wrong Type
+BERT,178,ROBERTO DURAN,PER,DURAN,Partial / Wrong Type
+BERT,178,PANAMA,LOC,PANAMA,Partial / Wrong Type
+BERT,214,LENTINI,PER,LENTINI,Partial / Wrong Type
+BERT,214,ATALANTA,ORG,ATALANTA,Partial / Wrong Type
+BERT,214,MILAN,ORG,MILAN,Partial / Wrong Type
+BERT,219,Suu Kyi,PER,Suu | Kyi,Partial / Wrong Type
+BERT,237,Boxing-Bruno,MISC,,Missed Entity
+BERT,252,MEDIA INDONESIA,ORG,MEDIA,Partial / Wrong Type
+BERT,266,Artisans for Peace,MISC,Artisans | for Peace,Partial / Wrong Type
+BERT,275,FAROES,LOC,,Missed Entity
+BERT,275,SLOVAKIA,LOC,SLOVAKIA,Partial / Wrong Type
+BERT,278,Barcelona,LOC,Barcelona,Partial / Wrong Type
+BERT,290,Far Eastern,MISC,Far Eastern,Partial / Wrong Type
+BERT,291,El Al,ORG,El Al,Partial / Wrong Type
+BERT,294,British Labour Party,ORG,British | Labour Party,Partial / Wrong Type
+BERT,311,LA PRESSE,ORG,LA | PRESSE,Partial / Wrong Type
+BERT,336,U.N. Interim Force in Lebanon,ORG,Lebanon | U.N. Interim Force,Partial / Wrong Type
+BERT,337,Chechen Republic,LOC,Chechen | Republic,Partial / Wrong Type
+BERT,338,FRANCE,LOC,,Missed Entity
+BERT,339,Australian,MISC,,Missed Entity
+BERT,342,Transylvanian,MISC,Transylvanian,Partial / Wrong Type
+BERT,342,Comelf,ORG,Comelf,Partial / Wrong Type
+BERT,346,All Black,ORG,Black | All,Partial / Wrong Type
+BERT,348,Vienna-based,MISC,Vienna-based,Partial / Wrong Type
+BERT,368,ALL BLACKS,ORG,,Missed Entity
+BERT,368,SOUTH AFRICA,LOC,SOUTH AFRICA,Partial / Wrong Type
+BERT,368,RUGBY UNION,ORG,RUGBY | UNION,Partial / Wrong Type
+BERT,385,Panamanian,MISC,Panamanian Boxing Association,Partial / Wrong Type
+BERT,385,Boxing Association,ORG,Panamanian Boxing Association,Partial / Wrong Type
+BERT,389,ITALY,LOC,,Missed Entity
+BERT,400,Kansas City,LOC,Kansas City,Partial / Wrong Type
+BERT,405,Buyoya,PER,Buyoya,Partial / Wrong Type
+BERT,406,1997 FED CUP,MISC,CUP,Partial / Wrong Type
+BERT,414,GASCOIGNE,PER,GASCOIGNE,Partial / Wrong Type
+BERT,426,Wall Street,LOC,Wall | Street,Partial / Wrong Type
+BERT,436,Rad,ORG,Rad ( B ),Partial / Wrong Type
+BERT,440,ASHES,MISC,,Missed Entity
+BERT,450,KLINSMANN,PER,KLINSMANN,Partial / Wrong Type
+BERT,450,1998 WORLD CUP,MISC,CUP,Partial / Wrong Type
+BERT,456,AUSTRALIA,LOC,,Missed Entity
+BERT,456,SRI LANKA,LOC,LANKA | SRI,Partial / Wrong Type
+BERT,462,Gaddafi,PER,Gaddafi,Partial / Wrong Type
+BERT,483,Xinhua,ORG,Xinhua,Partial / Wrong Type
+BERT,485,RUGBY UNION,ORG,RUGBY UNION,Partial / Wrong Type
+BERT,493,Singer,MISC,,Missed Entity
+BERT,501,South Korea,LOC,South Korea,Partial / Wrong Type
+BERT,506,Montreal,LOC,Montreal,Partial / Wrong Type
+BERT,524,All Black,ORG,All Black,Partial / Wrong Type
+BERT,525,Edward D. Jones & Co,ORG,Edward D. Jones & Co .,Partial / Wrong Type
+BERT,536,Davenport,PER,Lindsay ) Davenport,Partial / Wrong Type
+BERT,536,Lindsay,PER,Lindsay ) Davenport,Partial / Wrong Type
+BERT,538,Commerce,ORG,Mercantile and Commerce,Partial / Wrong Type
+BERT,538,Mercantile,ORG,Mercantile and Commerce,Partial / Wrong Type
+BERT,550,Aerodrom Beograd,LOC,Aerodrom Beograd,Partial / Wrong Type
+BERT,551,Italian Grand Prix,MISC,Grand Prix | Italian,Partial / Wrong Type
+BERT,575,Zairean,MISC,Zairean,Partial / Wrong Type
+BERT,601,Stars and Stripes,MISC,Stars | and | Stripes,Partial / Wrong Type
+BERT,611,God,PER,,Missed Entity
+BERT,614,N. Korea,LOC,Korea | N.,Partial / Wrong Type
+BERT,624,Commerce,ORG,Mercantile or Commerce,Partial / Wrong Type
+BERT,624,Mercantile,ORG,Mercantile or Commerce,Partial / Wrong Type
+BERT,625,El Al,ORG,El Al,Partial / Wrong Type
+BERT,639,EUROPEAN,MISC,EUROPEAN,Partial / Wrong Type
+BERT,639,ISRAEL,LOC,ISRAEL,Partial / Wrong Type
+BERT,648,Wuhan,LOC,Wuhan,Partial / Wrong Type
+BERT,660,Jackson Hole symposium,MISC,Jackson Hole,Partial / Wrong Type
+BERT,665,EL SALVADOR,LOC,SALVADOR | EL,Partial / Wrong Type
+BERT,668,Berlin,MISC,Berlin,Partial / Wrong Type
+BERT,679,Jed-Forest,ORG,Jed-Forest,Partial / Wrong Type
+BERT,686,IRELAND,LOC,IRELAND,Partial / Wrong Type
+BERT,693,European,MISC,European Under-21,Partial / Wrong Type
+BERT,698,Chinese,MISC,Chinese Nationalist,Partial / Wrong Type
+BERT,716,Warner Bros,ORG,Warner Bros .,Partial / Wrong Type
+BERT,719,Boatmen 's,ORG,'s,Partial / Wrong Type
+BERT,720,Petofi,ORG,Petofi,Partial / Wrong Type
+BERT,729,Wall Street,LOC,Wall Street,Partial / Wrong Type
+BERT,749,asset-St .,MISC,.,Partial / Wrong Type
+BERT,757,Whitewater,LOC,Whitewater,Partial / Wrong Type
+BERT,764,GREATER MILWAUKEE OPEN,MISC,MILWAUKEE OPEN | GREATER,Partial / Wrong Type
+BERT,774,"Hector "" Macho "" Camacho",PER,Hector | Macho | Camacho,Partial / Wrong Type
+BERT,779,WOODS,PER,,Missed Entity
+BERT,781,JANSHER,PER,,Missed Entity
+BERT,790,American Catholics,MISC,American,Partial / Wrong Type
+BERT,799,JAPAN,LOC,JAPAN,Partial / Wrong Type
+BERT,813,FIFA,ORG,FIFA,Partial / Wrong Type
+BERT,820,Mediterranean,MISC,Mediterranean,Partial / Wrong Type
+BERT,820,Enterprise,MISC,Enterprise,Partial / Wrong Type
+BERT,820,Carl Vinson,MISC,Carl Vinson,Partial / Wrong Type
+BERT,826,MITCHELL,PER,MITCHELL,Partial / Wrong Type
+BERT,826,BAILEY,PER,,Missed Entity
+BERT,835,Korean,MISC,Korean War,Partial / Wrong Type
+BERT,837,New York-based,MISC,New York-based,Partial / Wrong Type
+BERT,848,Wall Street,LOC,Wall Street,Partial / Wrong Type
+BERT,859,Montreal,LOC,Montreal,Partial / Wrong Type
+BERT,866,Homegate Hospitality Inc,ORG,Company Name Homegate Hospitality Inc,Partial / Wrong Type
+BERT,866,Name,MISC,Company Name Homegate Hospitality Inc,Partial / Wrong Type
+BERT,867,Orrell,ORG,Orrell,Partial / Wrong Type
+BERT,895,Tattersalls Breeders,MISC,Tattersalls | Breeders,Partial / Wrong Type
+BERT,907,REAL,ORG,,Missed Entity
+BERT,915,1966-76 Cultural Revolution,MISC,Cultural Revolution,Partial / Wrong Type
+BERT,925,BELARUS,LOC,BELARUS,Partial / Wrong Type
+BERT,930,Liutauras Stremaitis,PER,Liutauras Stremaitis,Partial / Wrong Type
+BERT,934,Wallaby,ORG,Wallaby,Partial / Wrong Type
+BERT,934,Leicester,LOC,Leicester,Partial / Wrong Type
+BERT,935,ROMANIA,LOC,ROMANIA,Partial / Wrong Type
+BERT,939,IRA,ORG,IRA,Partial / Wrong Type
+BERT,943,FTSE,MISC,,Missed Entity
+BERT,964,Raymond James,PER,Raymond James,Partial / Wrong Type

@@ -1,0 +1,13 @@
+Sentence ID,Text,Entity Type,Entity,Error
+5,Elon Musk met officials in Berlin.,PERSON,El,FP
+5,Elon Musk met officials in Berlin.,PERSON,on Musk,FP
+5,Elon Musk met officials in Berlin.,PERSON,Elon Musk,FN
+9,Sam Altman spoke at an OpenAI event in San Francisco.,ORG,OpenAI,FN
+23,Cristiano Ronaldo traveled to Madrid.,PERSON,rist,FP
+23,Cristiano Ronaldo traveled to Madrid.,PERSON,C,FP
+23,Cristiano Ronaldo traveled to Madrid.,PERSON,iano Ronaldo,FP
+23,Cristiano Ronaldo traveled to Madrid.,PERSON,Cristiano Ronaldo,FN
+25,Satya Nadella met officials in Washington.,PERSON,tya Nadella,FP
+25,Satya Nadella met officials in Washington.,PERSON,Sa,FP
+25,Satya Nadella met officials in Washington.,PERSON,Satya Nadella,FN
+28,Jensen Huang presented NVIDIA technology in Taipei.,ORG,NVIDIA,FN

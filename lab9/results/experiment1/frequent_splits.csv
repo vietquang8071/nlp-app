@@ -1,0 +1,76 @@
+word,entity_type,subwords,frequency,num_subwords
+'s,Non-Entity,' | s,4,2.0
+C.,Entity,C | .,3,2.0
+1996-08-30,Non-Entity,1996 | - | 08 | - | 30,2,5.0
+Tolley,Entity,To | ##lle | ##y,2,3.0
+Mahala,Entity,Ma | ##hala,2,2.0
+Tunbridge,Entity,Tu | ##nbridge,2,2.0
+double-bogeying,Non-Entity,double | - | b | ##og | ##ey | ##ing,1,6.0
+1996-08-31,Non-Entity,1996 | - | 08 | - | 31,1,5.0
+20-year-old,Non-Entity,20 | - | year | - | old,1,5.0
+AMSTERDAM,Entity,AM | ##ST | ##ER | ##DA | ##M,1,5.0
+COLORADO,Entity,CO | ##L | ##OR | ##AD | ##O,1,5.0
+Colquhoun,Entity,Col | ##q | ##uh | ##ou | ##n,1,5.0
+DIVISION,Entity,D | ##I | ##VI | ##SI | ##ON,1,5.0
+MONTREAL,Entity,M | ##ON | ##TR | ##EA | ##L,1,5.0
+paedophile,Non-Entity,p | ##ae | ##do | ##phi | ##le,1,5.0
+"1,627",Non-Entity,"1 | , | 62 | ##7",1,4.0
+359-yard,Non-Entity,35 | ##9 | - | yard,1,4.0
+CHICAGO,Entity,CH | ##IC | ##AG | ##O,1,4.0
+DIEGO,Entity,D | ##IE | ##G | ##O,1,4.0
+EASTERN,Entity,EA | ##ST | ##ER | ##N,1,4.0
+LONDON,Entity,L | ##ON | ##D | ##ON,1,4.0
+Sihanouk,Entity,Si | ##han | ##ou | ##k,1,4.0
+U.N.,Entity,U | . | N | .,1,4.0
+U.S.,Entity,U | . | S | .,1,4.0
+Vipheak,Entity,V | ##ip | ##hea | ##k,1,4.0
+bogeying,Non-Entity,b | ##og | ##ey | ##ing,1,4.0
+confiscate,Non-Entity,con | ##fi | ##sca | ##te,1,4.0
+tranquil,Non-Entity,t | ##ran | ##qui | ##l,1,4.0
+.519,Non-Entity,. | 51 | ##9,1,3.0
+.596,Non-Entity,. | 59 | ##6,1,3.0
+0-4,Non-Entity,0 | - | 4,1,3.0
+167-6,Non-Entity,167 | - | 6,1,3.0
+4-68,Non-Entity,4 | - | 68,1,3.0
+4-71,Non-Entity,4 | - | 71,1,3.0
+"5,000",Non-Entity,"5 | , | 000",1,3.0
+57.50,Non-Entity,57 | . | 50,1,3.0
+62.83,Non-Entity,62 | . | 83,1,3.0
+63.02,Non-Entity,63 | . | 02,1,3.0
+"90,000",Non-Entity,"90 | , | 000",1,3.0
+Arbil,Entity,A | ##rb | ##il,1,3.0
+Guzman,Entity,G | ##uz | ##man,1,3.0
+Marriner,Entity,Mar | ##rine | ##r,1,3.0
+Tuzla,Entity,Tu | ##z | ##la,1,3.0
+amnesty,Non-Entity,am | ##nes | ##ty,1,3.0
+dissident,Non-Entity,di | ##ssi | ##dent,1,3.0
+low-scoring,Non-Entity,low | - | scoring,1,3.0
+malicious,Non-Entity,ma | ##lic | ##ious,1,3.0
+overheating,Non-Entity,over | ##heat | ##ing,1,3.0
+par-four,Non-Entity,par | - | four,1,3.0
+prudent,Non-Entity,p | ##rud | ##ent,1,3.0
+self-styled,Non-Entity,self | - | styled,1,3.0
+swerved,Non-Entity,s | ##wer | ##ved,1,3.0
+year-long,Non-Entity,year | - | long,1,3.0
+743,Non-Entity,74 | ##3,1,2.0
+EPR,Entity,EP | ##R,1,2.0
+Escaped,Non-Entity,Escape | ##d,1,2.0
+Haitai,Entity,Hai | ##tai,1,2.0
+Hen,Entity,He | ##n,1,2.0
+IBF,Entity,I | ##BF,1,2.0
+K.,Entity,K | .,1,2.0
+KNP,Entity,K | ##NP,1,2.0
+Kennett,Entity,Ken | ##nett,1,2.0
+Notts,Entity,Not | ##ts,1,2.0
+Organisers,Non-Entity,Organ | ##isers,1,2.0
+RDR,Entity,R | ##DR,1,2.0
+Rattana,Entity,Rat | ##tana,1,2.0
+Reuters,Entity,Re | ##uters,1,2.0
+SAN,Entity,SA | ##N,1,2.0
+Scoreboard,Non-Entity,Score | ##board,1,2.0
+Somerville,Entity,Some | ##rville,1,2.0
+checkpoint,Non-Entity,check | ##point,1,2.0
+fanned,Non-Entity,fan | ##ned,1,2.0
+featherweight,Non-Entity,feather | ##weight,1,2.0
+shelling,Non-Entity,shell | ##ing,1,2.0
+wounding,Non-Entity,wound | ##ing,1,2.0
