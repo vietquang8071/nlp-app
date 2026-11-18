@@ -9,3 +9,6 @@ imdb/
 *.zip
 *.pth
 *.pt
+
+# Fine-tuned model parameters and checkpoints
+/lab9/results/bert-ner/
